@@ -1,0 +1,1622 @@
+[W 15:19:45.241 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 15:19:45.252 NotebookApp] Serving notebooks from local directory: /home/strv/prog/deep
+[I 15:19:45.252 NotebookApp] 0 active kernels
+[I 15:19:45.252 NotebookApp] The Jupyter Notebook is running at:
+[I 15:19:45.252 NotebookApp] http://[all ip addresses on your system]:9999/
+[I 15:19:45.253 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 15:20:15.653 NotebookApp] 302 GET / (66.249.82.154) 1.49ms
+[I 15:20:15.783 NotebookApp] 302 GET /tree? (66.249.82.154) 1.72ms
+[I 15:20:55.750 NotebookApp] 302 GET /tree (66.249.82.155) 1.04ms
+[I 15:25:35.396 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 1.37ms
+[I 15:25:35.512 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.81ms
+[I 15:25:40.346 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.84ms
+[I 15:25:40.464 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.57ms
+[I 15:29:02.299 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 1.23ms
+[I 15:29:02.394 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.61ms
+[I 15:29:02.474 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.66ms
+[I 15:29:02.546 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.75ms
+[I 15:29:02.634 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.70ms
+[I 15:29:02.723 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.78ms
+[I 15:29:02.810 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.73ms
+[I 15:29:02.895 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.63ms
+[I 15:29:02.985 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.70ms
+[I 15:29:03.071 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.63ms
+[I 15:29:03.358 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.99ms
+[I 15:29:03.514 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.60ms
+[I 15:29:03.670 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.97ms
+[I 15:29:03.813 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.69ms
+[I 15:29:03.977 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.66ms
+[I 15:29:04.125 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.62ms
+[I 15:29:04.285 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 1.10ms
+[I 15:29:04.428 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.58ms
+[I 15:29:04.579 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.73ms
+[I 15:29:04.742 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.69ms
+[I 15:29:09.531 NotebookApp] 302 GET / (126.237.0.101) 0.71ms
+[I 15:29:09.622 NotebookApp] 302 GET /tree? (126.237.0.101) 1.27ms
+[I 15:29:14.127 NotebookApp] 302 POST /login?next=%2Ftree%3F (126.237.0.101) 1.84ms
+[W 15:29:15.222 NotebookApp] 404 GET /static/components/moment/locale/ja.js (126.237.0.101) 12.39ms referer=http://strv.work:9999/tree?
+[I 15:33:22.417 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 1.16ms
+[I 15:33:22.507 NotebookApp] 302 GET /jupyter/ (::1) 0.51ms
+[I 15:33:22.596 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.74ms
+[I 15:33:22.687 NotebookApp] 302 GET /jupyter/ (::1) 0.50ms
+[I 15:33:22.786 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.48ms
+[I 15:33:22.877 NotebookApp] 302 GET /jupyter/ (::1) 0.55ms
+[I 15:33:22.948 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.71ms
+[I 15:33:23.036 NotebookApp] 302 GET /jupyter/ (::1) 0.54ms
+[I 15:33:23.149 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.64ms
+[I 15:33:23.247 NotebookApp] 302 GET /jupyter/ (::1) 0.56ms
+[I 15:33:23.598 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.76ms
+[I 15:33:23.764 NotebookApp] 302 GET /jupyter/ (::1) 0.50ms
+[I 15:33:23.933 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.51ms
+[I 15:33:24.096 NotebookApp] 302 GET /jupyter/ (::1) 0.53ms
+[I 15:33:24.247 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.55ms
+[I 15:33:24.425 NotebookApp] 302 GET /jupyter/ (::1) 0.53ms
+[I 15:33:24.590 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.89ms
+[I 15:33:24.765 NotebookApp] 302 GET /jupyter/ (::1) 0.99ms
+[I 15:33:24.919 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.65ms
+[I 15:33:25.081 NotebookApp] 302 GET /jupyter/ (::1) 0.62ms
+[I 15:34:47.074 NotebookApp] 302 GET / (127.0.0.1) 1.26ms
+[I 15:34:59.935 NotebookApp] 302 GET / (::1) 0.47ms
+[I 15:36:37.797 NotebookApp] 302 GET / (126.237.0.101) 1.91ms
+[W 15:36:38.495 NotebookApp] 404 GET /static/components/moment/locale/ja.js (126.237.0.101) 1.53ms referer=http://strv.work:9999/tree?
+[I 15:36:54.088 NotebookApp] 302 GET / (126.237.0.101) 0.60ms
+[I 15:36:54.162 NotebookApp] 302 GET /tree? (126.237.0.101) 0.96ms
+[I 15:38:21.163 NotebookApp] 302 GET /login/ (127.0.0.1) 1.04ms
+[I 15:39:06.692 NotebookApp] 302 GET /tree (127.0.0.1) 1.50ms
+[I 15:39:23.697 NotebookApp] 302 GET /tree (::1) 1.33ms
+[I 15:39:37.290 NotebookApp] 302 GET /tree (127.0.0.1) 1.71ms
+[I 15:40:13.729 NotebookApp] 302 GET / (126.237.0.101) 1.28ms
+[I 15:40:13.848 NotebookApp] 302 GET /tree? (126.237.0.101) 1.83ms
+[I 15:57:06.857 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 1.47ms
+[I 15:57:06.968 NotebookApp] 302 GET /jupyter/ (::1) 0.51ms
+[I 15:57:07.071 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.45ms
+[I 15:57:07.170 NotebookApp] 302 GET /jupyter/ (::1) 0.50ms
+[I 15:57:07.270 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.54ms
+[I 15:57:07.371 NotebookApp] 302 GET /jupyter/ (::1) 0.46ms
+[I 15:57:07.478 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.48ms
+[I 15:57:07.595 NotebookApp] 302 GET /jupyter/ (::1) 1.10ms
+[I 15:57:07.709 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.81ms
+[I 15:57:07.813 NotebookApp] 302 GET /jupyter/ (::1) 0.46ms
+[I 15:57:08.170 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.51ms
+[I 15:57:08.321 NotebookApp] 302 GET /jupyter/ (::1) 0.65ms
+[I 15:57:08.529 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.46ms
+[I 15:57:08.710 NotebookApp] 302 GET /jupyter/ (::1) 0.47ms
+[I 15:57:08.869 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.43ms
+[I 15:57:09.031 NotebookApp] 302 GET /jupyter/ (::1) 0.47ms
+[I 15:57:09.213 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.82ms
+[I 15:57:09.369 NotebookApp] 302 GET /jupyter/ (::1) 0.57ms
+[I 15:57:09.529 NotebookApp] 302 GET /jupyter/ (127.0.0.1) 0.64ms
+[I 15:57:09.689 NotebookApp] 302 GET /jupyter/ (::1) 0.51ms
+[I 15:59:59.482 NotebookApp] 302 GET / (127.0.0.1) 0.79ms
+[I 15:59:59.564 NotebookApp] 302 GET /tree? (::1) 1.59ms
+[I 16:00:12.078 NotebookApp] 302 POST /login?next=%2Ftree%3F (::1) 1.56ms
+[W 16:00:13.962 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.65ms referer=http://strv.work/tree?
+[W 16:07:08.426 NotebookApp] 404 GET /site (127.0.0.1) 3.04ms referer=None
+[W 16:07:10.628 NotebookApp] 404 GET /site (::1) 1.39ms referer=None
+[W 16:07:12.332 NotebookApp] 404 GET /site (127.0.0.1) 1.41ms referer=None
+[W 16:08:30.028 NotebookApp] 404 GET /site (::1) 3.37ms referer=None
+[I 16:09:18.740 NotebookApp] 302 GET / (127.0.0.1) 0.50ms
+[I 16:09:18.920 NotebookApp] 302 GET /tree? (::1) 0.94ms
+[W 16:10:14.468 NotebookApp] 404 GET /site (127.0.0.1) 2.91ms referer=None
+[I 16:10:21.057 NotebookApp] 302 GET / (::1) 0.79ms
+[I 16:10:21.209 NotebookApp] 302 GET /tree? (127.0.0.1) 0.95ms
+[W 16:10:33.105 NotebookApp] 404 GET /sitr (127.0.0.1) 1.48ms referer=None
+[W 16:10:36.152 NotebookApp] 404 GET /site (::1) 1.55ms referer=None
+[W 16:10:37.708 NotebookApp] 404 GET /site (127.0.0.1) 1.63ms referer=None
+[I 16:10:47.028 NotebookApp] 302 GET / (::1) 1.09ms
+[I 16:10:47.177 NotebookApp] 302 GET /tree? (127.0.0.1) 1.25ms
+[W 16:10:54.931 NotebookApp] 404 GET /site (127.0.0.1) 2.49ms referer=None
+[I 16:13:45.994 NotebookApp] 302 GET / (::1) 1.44ms
+[I 16:15:55.095 NotebookApp] 302 GET / (127.0.0.1) 1.20ms
+[I 16:15:55.284 NotebookApp] 302 GET /tree? (::1) 1.18ms
+[I 16:16:02.692 NotebookApp] 302 POST /login?next=%2Ftree%3F (::1) 1.54ms
+[W 16:16:04.603 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.87ms referer=http://strv.work/tree?
+[I 16:16:11.780 NotebookApp] 302 GET / (127.0.0.1) 0.49ms
+[W 16:16:14.369 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 1.78ms referer=http://strv.work/tree?
+[I 16:29:08.120 NotebookApp] 302 GET / (127.0.0.1) 1.30ms
+[W 16:48:43.720 NotebookApp] 404 GET /.git/config (127.0.0.1) 6.46ms referer=None
+[I 17:04:59.336 NotebookApp] 302 GET / (127.0.0.1) 1.09ms
+[W 17:05:00.115 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.77ms referer=https://strv.work/tree?
+[I 17:06:25.546 NotebookApp] 302 GET / (127.0.0.1) 0.61ms
+[I 17:06:25.584 NotebookApp] 302 GET /tree? (::1) 1.08ms
+[W 17:06:32.943 NotebookApp] 404 GET /site (::1) 2.62ms referer=None
+[I 17:26:21.022 NotebookApp] 302 GET / (127.0.0.1) 1.28ms
+[I 17:26:21.056 NotebookApp] 302 GET /tree? (::1) 1.10ms
+[W 17:29:27.200 NotebookApp] 404 GET /site (127.0.0.1) 2.89ms referer=None
+[I 17:30:15.548 NotebookApp] 302 GET / (::1) 1.09ms
+[W 17:30:17.910 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.93ms referer=https://strv.work/tree?
+[I 17:33:55.053 NotebookApp] 302 GET / (127.0.0.1) 0.54ms
+[I 17:33:55.093 NotebookApp] 302 GET /tree? (::1) 0.91ms
+[I 17:48:49.967 NotebookApp] 302 GET / (::1) 1.13ms
+[I 17:48:49.997 NotebookApp] 302 GET /tree? (127.0.0.1) 1.33ms
+[I 17:56:03.313 NotebookApp] 302 POST /login?next=%2Ftree%3F (::1) 2.41ms
+[W 17:56:03.918 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.42ms referer=https://strv.work/tree?
+[W 17:56:11.872 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 1.70ms referer=https://strv.work/notebooks/Untitled.ipynb
+[W 17:56:11.875 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 1.21ms referer=https://strv.work/notebooks/Untitled.ipynb
+[I 17:56:12.074 NotebookApp] Kernel started: b28eedca-e5bc-40a1-9d64-317b38ea1f59
+[I 17:56:12.824 NotebookApp] Adapting to protocol v5.1 for kernel b28eedca-e5bc-40a1-9d64-317b38ea1f59
+[I 17:56:35.999 NotebookApp] Starting buffering for b28eedca-e5bc-40a1-9d64-317b38ea1f59:36B187747EF94420A7D21C60C56BEDB1
+[W 17:56:43.621 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.70ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[W 17:56:43.645 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.81ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[I 17:56:43.738 NotebookApp] Kernel started: 4f679347-cc89-4def-bc0f-6b3999cb8138
+[I 17:56:44.390 NotebookApp] Adapting to protocol v5.1 for kernel 4f679347-cc89-4def-bc0f-6b3999cb8138
+[W 17:56:57.676 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 1.76ms referer=https://strv.work/edit/p
+[W 17:57:08.239 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 1.86ms referer=https://strv.work/edit/p
+[W 17:57:12.373 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.57ms referer=https://strv.work/edit/jupyter.log
+[W 17:57:27.308 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.37ms referer=https://strv.work/edit/service.sh
+[W 17:57:37.143 NotebookApp] delete /service.sh
+[W 18:02:13.572 NotebookApp] 404 GET /admin/config.php (::1) 5.28ms referer=None
+[I 18:27:59.024 NotebookApp] Saving file at /Untitled1.ipynb
+[I 18:28:12.159 NotebookApp] Kernel interrupted: 4f679347-cc89-4def-bc0f-6b3999cb8138
+[I 18:28:44.749 NotebookApp] Saving file at /Untitled1.ipynb
+[I 18:30:44.815 NotebookApp] Saving file at /Untitled1.ipynb
+[I 18:32:44.811 NotebookApp] Saving file at /Untitled1.ipynb
+[I 18:34:44.850 NotebookApp] Saving file at /Untitled1.ipynb
+[W 18:48:44.393 NotebookApp] WebSocket ping timeout after 119904 ms.
+[I 18:48:49.399 NotebookApp] Starting buffering for 4f679347-cc89-4def-bc0f-6b3999cb8138:EA9AD8C8505742F08F16AFC1507D6B2F
+[I 18:53:49.082 NotebookApp] 302 GET / (127.0.0.1) 1.15ms
+[W 18:53:50.307 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.92ms referer=https://strv.work/tree?
+[I 18:53:54.646 NotebookApp] 302 GET / (::1) 0.67ms
+[W 18:53:55.134 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 2.11ms referer=https://strv.work/tree?
+[W 18:54:01.460 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 2.32ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[W 18:54:01.559 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 4.44ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[I 18:54:02.072 NotebookApp] Adapting to protocol v5.1 for kernel 4f679347-cc89-4def-bc0f-6b3999cb8138
+[I 18:54:45.583 NotebookApp] Starting buffering for 4f679347-cc89-4def-bc0f-6b3999cb8138:9E7A84FEE262432586700488F0CC5F4F
+[I 18:55:05.639 NotebookApp] 302 GET / (::1) 1.53ms
+[W 18:55:07.055 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.72ms referer=https://strv.work/tree?
+[W 18:55:10.538 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.62ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[W 18:55:10.593 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 2.05ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[I 18:55:11.560 NotebookApp] Adapting to protocol v5.1 for kernel 4f679347-cc89-4def-bc0f-6b3999cb8138
+[I 18:59:11.733 NotebookApp] Saving file at /Untitled1.ipynb
+[I 19:00:08.667 NotebookApp] Starting buffering for 4f679347-cc89-4def-bc0f-6b3999cb8138:D5E6652FA9194D578B2D646A6863AC62
+[W 19:02:32.141 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 2.86ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[W 19:02:32.339 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 2.89ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[I 19:02:32.980 NotebookApp] Adapting to protocol v5.1 for kernel 4f679347-cc89-4def-bc0f-6b3999cb8138
+[W 19:02:38.987 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.43ms referer=https://strv.work/tree?
+[I 19:06:49.552 NotebookApp] Saving file at /Untitled1.ipynb
+[I 19:09:50.484 NotebookApp] Saving file at /Untitled1.ipynb
+[I 19:12:50.328 NotebookApp] Saving file at /Untitled1.ipynb
+[I 19:13:25.234 NotebookApp] Starting buffering for 4f679347-cc89-4def-bc0f-6b3999cb8138:237B3D969A7B4F918759BEE133DA438C
+[W 19:13:31.672 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 1.52ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[W 19:13:31.736 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 1.88ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[I 19:13:32.602 NotebookApp] Adapting to protocol v5.1 for kernel 4f679347-cc89-4def-bc0f-6b3999cb8138
+[I 19:15:32.368 NotebookApp] Saving file at /Untitled1.ipynb
+[I 19:16:15.727 NotebookApp] Starting buffering for 4f679347-cc89-4def-bc0f-6b3999cb8138:C9FA393272B346A6831B0E8D1D0A4DA2
+[W 19:16:22.208 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 2.66ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[W 19:16:22.226 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.82ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[I 19:16:22.562 NotebookApp] Adapting to protocol v5.1 for kernel 4f679347-cc89-4def-bc0f-6b3999cb8138
+[I 19:18:28.401 NotebookApp] Saving file at /Untitled1.ipynb
+[I 19:20:22.374 NotebookApp] Saving file at /Untitled1.ipynb
+[I 19:22:22.452 NotebookApp] Saving file at /Untitled1.ipynb
+[I 19:23:00.014 NotebookApp] 302 GET / (::1) 0.76ms
+[I 19:23:00.262 NotebookApp] 302 GET /tree? (127.0.0.1) 1.08ms
+[I 19:24:22.874 NotebookApp] Saving file at /Untitled1.ipynb
+[I 19:26:23.034 NotebookApp] Saving file at /Untitled1.ipynb
+[I 19:29:05.005 NotebookApp] Saving file at /Untitled1.ipynb
+[I 19:33:04.906 NotebookApp] Saving file at /Untitled1.ipynb
+[I 19:35:05.005 NotebookApp] Saving file at /Untitled1.ipynb
+[I 19:37:04.416 NotebookApp] Saving file at /Untitled1.ipynb
+[I 19:39:04.467 NotebookApp] Saving file at /Untitled1.ipynb
+[I 19:41:04.512 NotebookApp] Saving file at /Untitled1.ipynb
+[I 19:43:04.767 NotebookApp] Saving file at /Untitled1.ipynb
+[I 19:45:04.521 NotebookApp] Saving file at /Untitled1.ipynb
+[I 19:47:04.978 NotebookApp] Saving file at /Untitled1.ipynb
+[I 19:51:04.555 NotebookApp] Saving file at /Untitled1.ipynb
+[I 19:54:00.313 NotebookApp] Saving file at /Untitled1.ipynb
+[I 19:56:40.403 NotebookApp] Saving file at /Untitled1.ipynb
+[I 22:21:43.831 NotebookApp] 302 GET / (127.0.0.1) 1.58ms
+[I 23:07:19.007 NotebookApp] Starting buffering for 4f679347-cc89-4def-bc0f-6b3999cb8138:C66BEDE915914DBA8401EEB91CC1629D
+[I 23:16:55.486 NotebookApp] 302 GET / (::1) 1.13ms
+[I 23:53:30.852 NotebookApp] 302 GET / (127.0.0.1) 1.37ms
+[I 23:53:30.887 NotebookApp] 302 GET /tree? (::1) 1.60ms
+[I 23:53:38.187 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 1.72ms
+[W 23:53:38.766 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 2.13ms referer=http://strv.work/tree?
+[I 23:53:41.428 NotebookApp] 302 GET /login?next=%2Ftree%3F (::1) 1.56ms
+[W 23:53:41.730 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.74ms referer=http://strv.work/tree?
+[W 02:17:07.671 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 2.97ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[W 02:17:07.678 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.11ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[I 02:17:08.472 NotebookApp] Adapting to protocol v5.1 for kernel 4f679347-cc89-4def-bc0f-6b3999cb8138
+[I 02:17:15.852 NotebookApp] Starting buffering for 4f679347-cc89-4def-bc0f-6b3999cb8138:A196C9D7956E482F8B15A95D34397846
+[W 02:17:16.348 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 1.41ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[W 02:17:16.364 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.61ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[I 02:17:16.865 NotebookApp] Adapting to protocol v5.1 for kernel 4f679347-cc89-4def-bc0f-6b3999cb8138
+[I 02:18:08.317 NotebookApp] Starting buffering for 4f679347-cc89-4def-bc0f-6b3999cb8138:F39645E756D04AF89C1E3BD1F022461C
+[W 02:18:09.054 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 2.12ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[W 02:18:09.094 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.39ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[I 02:18:09.697 NotebookApp] Adapting to protocol v5.1 for kernel 4f679347-cc89-4def-bc0f-6b3999cb8138
+[I 02:18:26.489 NotebookApp] Starting buffering for 4f679347-cc89-4def-bc0f-6b3999cb8138:B6E7B617397246938CBD4C57F431F9F4
+[W 02:18:26.986 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.55ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[W 02:18:26.988 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.62ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[I 02:18:27.487 NotebookApp] Adapting to protocol v5.1 for kernel 4f679347-cc89-4def-bc0f-6b3999cb8138
+[I 02:18:29.809 NotebookApp] Starting buffering for 4f679347-cc89-4def-bc0f-6b3999cb8138:69DC9ABF47C04EA68D764BE7C9D6679B
+[W 02:18:30.293 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 2.22ms referer=https://strv.work/tree
+[I 02:43:29.568 NotebookApp] 302 GET / (127.0.0.1) 1.05ms
+[I 02:43:31.031 NotebookApp] 302 GET /tree? (::1) 1.20ms
+[I 04:22:43.043 NotebookApp] 302 GET /tree (::1) 1.88ms
+[I 04:22:43.063 NotebookApp] 302 GET / (127.0.0.1) 0.63ms
+[I 04:22:43.249 NotebookApp] 302 GET /tree? (::1) 0.89ms
+[W 08:52:19.960 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 3.04ms referer=https://strv.work/tree
+[W 08:52:22.814 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 2.32ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[W 08:52:22.897 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.98ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[I 08:52:23.546 NotebookApp] Adapting to protocol v5.1 for kernel 4f679347-cc89-4def-bc0f-6b3999cb8138
+[I 08:52:33.257 NotebookApp] Starting buffering for 4f679347-cc89-4def-bc0f-6b3999cb8138:58576A726B1B4283AD82BAA8C7216BB0
+[W 08:52:33.762 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.45ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[W 08:52:33.795 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 1.91ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[I 08:52:34.306 NotebookApp] Adapting to protocol v5.1 for kernel 4f679347-cc89-4def-bc0f-6b3999cb8138
+[I 08:52:34.762 NotebookApp] Starting buffering for 4f679347-cc89-4def-bc0f-6b3999cb8138:28F67944927B40F1847F0CF8510C6B89
+[W 08:52:37.560 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 1.77ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[W 08:52:37.562 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 1.25ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[I 08:52:37.667 NotebookApp] Adapting to protocol v5.1 for kernel 4f679347-cc89-4def-bc0f-6b3999cb8138
+[I 08:57:19.922 NotebookApp] Starting buffering for 4f679347-cc89-4def-bc0f-6b3999cb8138:FD85BC72757B46888C28EF7985266160
+[W 09:05:05.341 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.89ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[W 09:05:05.355 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.98ms referer=https://strv.work/notebooks/Untitled1.ipynb
+[I 09:05:05.900 NotebookApp] Adapting to protocol v5.1 for kernel 4f679347-cc89-4def-bc0f-6b3999cb8138
+[I 09:07:09.709 NotebookApp] Saving file at /Untitled1.ipynb
+[I 09:09:09.660 NotebookApp] Saving file at /Untitled1.ipynb
+[I 09:11:09.674 NotebookApp] Saving file at /Untitled1.ipynb
+[I 09:13:09.691 NotebookApp] Saving file at /deeping.ipynb
+[I 09:15:10.097 NotebookApp] Saving file at /deeping.ipynb
+[I 09:25:09.764 NotebookApp] Saving file at /deeping.ipynb
+[I 09:27:09.678 NotebookApp] Saving file at /deeping.ipynb
+[I 09:35:09.709 NotebookApp] Saving file at /deeping.ipynb
+[I 09:37:09.728 NotebookApp] Saving file at /deeping.ipynb
+[I 09:39:09.675 NotebookApp] Saving file at /deeping.ipynb
+[I 09:41:09.731 NotebookApp] Saving file at /deeping.ipynb
+[I 09:45:09.717 NotebookApp] Saving file at /deeping.ipynb
+[I 09:47:10.034 NotebookApp] Saving file at /deeping.ipynb
+[I 09:53:10.270 NotebookApp] Saving file at /deeping.ipynb
+[I 09:55:10.108 NotebookApp] Saving file at /deeping.ipynb
+[I 09:57:10.094 NotebookApp] Saving file at /deeping.ipynb
+[I 09:59:09.666 NotebookApp] Saving file at /deeping.ipynb
+[I 10:02:17.433 NotebookApp] Starting buffering for 4f679347-cc89-4def-bc0f-6b3999cb8138:8F61C3654B19468093B29150485717B4
+[I 10:02:24.087 NotebookApp] Kernel shutdown: b28eedca-e5bc-40a1-9d64-317b38ea1f59
+[W 10:02:24.090 NotebookApp] delete /Untitled.ipynb
+[I 10:02:29.288 NotebookApp] Creating new notebook in 
+[W 10:02:30.187 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 1.70ms referer=https://strv.work/notebooks/Untitled.ipynb?kernel_name=python3
+[W 10:02:30.218 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.93ms referer=https://strv.work/notebooks/Untitled.ipynb?kernel_name=python3
+[E 10:02:30.352 NotebookApp] Uncaught exception POST /api/sessions (::1)
+    HTTPServerRequest(protocol='http', host='localhost:9999', method='POST', uri='/api/sessions', version='HTTP/1.1', remote_ip='::1', headers={'Connection': 'upgrade', 'Host': 'localhost:9999', 'Content-Length': '91', 'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36', 'Content-Type': 'application/json', 'Accept': 'application/json, text/javascript, */*; q=0.01', 'X-Requested-With': 'XMLHttpRequest', 'X-Xsrftoken': '2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029', 'Save-Data': 'on', 'Referer': 'https://strv.work/notebooks/Untitled.ipynb?kernel_name=python3', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'username-strv-work-8888="2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75"; username-localhost-9999="2|1:0|10:1513840562|23:username-localhost-9999|44:ODRjNmJhNTA0OTg5NGU0Y2E1ZTg5ZDliZTYzNDI3YmQ=|2eb0a8454340a1a89d52ec906c5e8d2957e9c088eca18ef909f9fa6feb3baa38"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029'})
+    Traceback (most recent call last):
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/web.py", line 1511, in _execute
+        result = yield result
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/handlers.py", line 73, in post
+        type=mtype))
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 79, in create_session
+        kernel_id = yield self.start_kernel_for_session(session_id, path, name, type, kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 92, in start_kernel_for_session
+        self.kernel_manager.start_kernel(path=kernel_path, kernel_name=kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 307, in wrapper
+        yielded = next(result)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py", line 141, in start_kernel
+        super(MappingKernelManager, self).start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/multikernelmanager.py", line 110, in start_kernel
+        km.start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/manager.py", line 238, in start_kernel
+        self.write_connection_file()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 431, in write_connection_file
+        kernel_name=self.kernel_name
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 136, in write_connection_file
+        with open(fname, 'w') as f:
+    FileNotFoundError: [Errno 2] No such file or directory: '/run/user/1000/jupyter/kernel-5e57c2f6-375c-4b5b-9276-881d602381b1.json'
+[W 10:02:30.359 NotebookApp] Unhandled error
+[E 10:02:30.360 NotebookApp] {
+      "Connection": "upgrade",
+      "Host": "localhost:9999",
+      "Content-Length": "91",
+      "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029",
+      "Save-Data": "on",
+      "Referer": "https://strv.work/notebooks/Untitled.ipynb?kernel_name=python3",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7",
+      "Cookie": "username-strv-work-8888=\"2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75\"; username-localhost-9999=\"2|1:0|10:1513840562|23:username-localhost-9999|44:ODRjNmJhNTA0OTg5NGU0Y2E1ZTg5ZDliZTYzNDI3YmQ=|2eb0a8454340a1a89d52ec906c5e8d2957e9c088eca18ef909f9fa6feb3baa38\"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029"
+    }
+[E 10:02:30.360 NotebookApp] 500 POST /api/sessions (::1) 11.31ms referer=https://strv.work/notebooks/Untitled.ipynb?kernel_name=python3
+[I 10:02:33.643 NotebookApp] New terminal with automatic name: 1
+[W 10:02:53.320 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.76ms referer=https://strv.work/tree
+[I 10:03:04.894 NotebookApp] Creating new notebook in 
+[W 10:03:05.703 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.64ms referer=https://strv.work/notebooks/Untitled1.ipynb?kernel_name=python3
+[W 10:03:05.731 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.32ms referer=https://strv.work/notebooks/Untitled1.ipynb?kernel_name=python3
+[E 10:03:05.816 NotebookApp] Uncaught exception POST /api/sessions (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:9999', method='POST', uri='/api/sessions', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Connection': 'upgrade', 'Host': 'localhost:9999', 'Content-Length': '92', 'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36', 'Content-Type': 'application/json', 'Accept': 'application/json, text/javascript, */*; q=0.01', 'X-Requested-With': 'XMLHttpRequest', 'X-Xsrftoken': '2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029', 'Save-Data': 'on', 'Referer': 'https://strv.work/notebooks/Untitled1.ipynb?kernel_name=python3', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'username-strv-work-8888="2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75"; username-localhost-9999="2|1:0|10:1513840562|23:username-localhost-9999|44:ODRjNmJhNTA0OTg5NGU0Y2E1ZTg5ZDliZTYzNDI3YmQ=|2eb0a8454340a1a89d52ec906c5e8d2957e9c088eca18ef909f9fa6feb3baa38"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029'})
+    Traceback (most recent call last):
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/web.py", line 1511, in _execute
+        result = yield result
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/handlers.py", line 73, in post
+        type=mtype))
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 79, in create_session
+        kernel_id = yield self.start_kernel_for_session(session_id, path, name, type, kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 92, in start_kernel_for_session
+        self.kernel_manager.start_kernel(path=kernel_path, kernel_name=kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 307, in wrapper
+        yielded = next(result)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py", line 141, in start_kernel
+        super(MappingKernelManager, self).start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/multikernelmanager.py", line 110, in start_kernel
+        km.start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/manager.py", line 238, in start_kernel
+        self.write_connection_file()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 431, in write_connection_file
+        kernel_name=self.kernel_name
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 136, in write_connection_file
+        with open(fname, 'w') as f:
+    FileNotFoundError: [Errno 2] No such file or directory: '/run/user/1000/jupyter/kernel-449e0bf1-4a6e-409c-af5f-c4219bcdcec6.json'
+[W 10:03:05.817 NotebookApp] Unhandled error
+[E 10:03:05.817 NotebookApp] {
+      "Connection": "upgrade",
+      "Host": "localhost:9999",
+      "Content-Length": "92",
+      "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029",
+      "Save-Data": "on",
+      "Referer": "https://strv.work/notebooks/Untitled1.ipynb?kernel_name=python3",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7",
+      "Cookie": "username-strv-work-8888=\"2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75\"; username-localhost-9999=\"2|1:0|10:1513840562|23:username-localhost-9999|44:ODRjNmJhNTA0OTg5NGU0Y2E1ZTg5ZDliZTYzNDI3YmQ=|2eb0a8454340a1a89d52ec906c5e8d2957e9c088eca18ef909f9fa6feb3baa38\"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029"
+    }
+[E 10:03:05.817 NotebookApp] 500 POST /api/sessions (127.0.0.1) 5.95ms referer=https://strv.work/notebooks/Untitled1.ipynb?kernel_name=python3
+[W 10:03:36.343 NotebookApp] 404 GET /notebooks/Untitled1.ipynb?kernel_name=python3 (::1): No such file or directory: Untitled1.ipynb
+[W 10:03:36.344 NotebookApp] 404 GET /notebooks/Untitled1.ipynb?kernel_name=python3 (::1) 1.84ms referer=None
+[W 10:03:41.184 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.70ms referer=https://strv.work/notebooks/deeping2.ipynb
+[E 10:03:41.332 NotebookApp] Uncaught exception POST /api/sessions (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:9999', method='POST', uri='/api/sessions', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Connection': 'upgrade', 'Host': 'localhost:9999', 'Content-Length': '74', 'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36', 'Content-Type': 'application/json', 'Accept': 'application/json, text/javascript, */*; q=0.01', 'X-Requested-With': 'XMLHttpRequest', 'X-Xsrftoken': '2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029', 'Save-Data': 'on', 'Referer': 'https://strv.work/notebooks/deeping2.ipynb', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'username-strv-work-8888="2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75"; username-localhost-9999="2|1:0|10:1513840562|23:username-localhost-9999|44:ODRjNmJhNTA0OTg5NGU0Y2E1ZTg5ZDliZTYzNDI3YmQ=|2eb0a8454340a1a89d52ec906c5e8d2957e9c088eca18ef909f9fa6feb3baa38"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029'})
+    Traceback (most recent call last):
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/web.py", line 1511, in _execute
+        result = yield result
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/handlers.py", line 73, in post
+        type=mtype))
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 79, in create_session
+        kernel_id = yield self.start_kernel_for_session(session_id, path, name, type, kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 92, in start_kernel_for_session
+        self.kernel_manager.start_kernel(path=kernel_path, kernel_name=kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 307, in wrapper
+        yielded = next(result)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py", line 141, in start_kernel
+        super(MappingKernelManager, self).start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/multikernelmanager.py", line 110, in start_kernel
+        km.start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/manager.py", line 238, in start_kernel
+        self.write_connection_file()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 431, in write_connection_file
+        kernel_name=self.kernel_name
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 136, in write_connection_file
+        with open(fname, 'w') as f:
+    FileNotFoundError: [Errno 2] No such file or directory: '/run/user/1000/jupyter/kernel-136bf47a-2256-441c-b3e6-fec9e63ba2be.json'
+[W 10:03:41.333 NotebookApp] Unhandled error
+[E 10:03:41.334 NotebookApp] {
+      "Connection": "upgrade",
+      "Host": "localhost:9999",
+      "Content-Length": "74",
+      "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029",
+      "Save-Data": "on",
+      "Referer": "https://strv.work/notebooks/deeping2.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7",
+      "Cookie": "username-strv-work-8888=\"2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75\"; username-localhost-9999=\"2|1:0|10:1513840562|23:username-localhost-9999|44:ODRjNmJhNTA0OTg5NGU0Y2E1ZTg5ZDliZTYzNDI3YmQ=|2eb0a8454340a1a89d52ec906c5e8d2957e9c088eca18ef909f9fa6feb3baa38\"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029"
+    }
+[E 10:03:41.334 NotebookApp] 500 POST /api/sessions (127.0.0.1) 5.24ms referer=https://strv.work/notebooks/deeping2.ipynb
+[W 10:03:41.354 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 1.54ms referer=https://strv.work/notebooks/deeping2.ipynb
+[W 10:03:43.331 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.70ms referer=https://strv.work/notebooks/Untitled.ipynb
+[E 10:03:43.423 NotebookApp] Uncaught exception POST /api/sessions (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:9999', method='POST', uri='/api/sessions', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Connection': 'upgrade', 'Host': 'localhost:9999', 'Content-Length': '74', 'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36', 'Content-Type': 'application/json', 'Accept': 'application/json, text/javascript, */*; q=0.01', 'X-Requested-With': 'XMLHttpRequest', 'X-Xsrftoken': '2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029', 'Save-Data': 'on', 'Referer': 'https://strv.work/notebooks/Untitled.ipynb', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'username-strv-work-8888="2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75"; username-localhost-9999="2|1:0|10:1513840562|23:username-localhost-9999|44:ODRjNmJhNTA0OTg5NGU0Y2E1ZTg5ZDliZTYzNDI3YmQ=|2eb0a8454340a1a89d52ec906c5e8d2957e9c088eca18ef909f9fa6feb3baa38"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029'})
+    Traceback (most recent call last):
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/web.py", line 1511, in _execute
+        result = yield result
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/handlers.py", line 73, in post
+        type=mtype))
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 79, in create_session
+        kernel_id = yield self.start_kernel_for_session(session_id, path, name, type, kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 92, in start_kernel_for_session
+        self.kernel_manager.start_kernel(path=kernel_path, kernel_name=kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 307, in wrapper
+        yielded = next(result)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py", line 141, in start_kernel
+        super(MappingKernelManager, self).start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/multikernelmanager.py", line 110, in start_kernel
+        km.start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/manager.py", line 238, in start_kernel
+        self.write_connection_file()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 431, in write_connection_file
+        kernel_name=self.kernel_name
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 136, in write_connection_file
+        with open(fname, 'w') as f:
+    FileNotFoundError: [Errno 2] No such file or directory: '/run/user/1000/jupyter/kernel-1d3fded0-1c17-4b6d-9d89-f8b3971163f1.json'
+[W 10:03:43.424 NotebookApp] Unhandled error
+[E 10:03:43.425 NotebookApp] {
+      "Connection": "upgrade",
+      "Host": "localhost:9999",
+      "Content-Length": "74",
+      "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029",
+      "Save-Data": "on",
+      "Referer": "https://strv.work/notebooks/Untitled.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7",
+      "Cookie": "username-strv-work-8888=\"2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75\"; username-localhost-9999=\"2|1:0|10:1513840562|23:username-localhost-9999|44:ODRjNmJhNTA0OTg5NGU0Y2E1ZTg5ZDliZTYzNDI3YmQ=|2eb0a8454340a1a89d52ec906c5e8d2957e9c088eca18ef909f9fa6feb3baa38\"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029"
+    }
+[E 10:03:43.425 NotebookApp] 500 POST /api/sessions (127.0.0.1) 5.64ms referer=https://strv.work/notebooks/Untitled.ipynb
+[W 10:03:43.457 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 1.88ms referer=https://strv.work/notebooks/Untitled.ipynb
+[W 10:03:47.780 NotebookApp] delete /Untitled.ipynb
+[W 10:03:49.225 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 2.01ms referer=https://strv.work/notebooks/deeping2.ipynb
+[E 10:03:49.327 NotebookApp] Uncaught exception POST /api/sessions (::1)
+    HTTPServerRequest(protocol='http', host='localhost:9999', method='POST', uri='/api/sessions', version='HTTP/1.1', remote_ip='::1', headers={'Connection': 'upgrade', 'Host': 'localhost:9999', 'Content-Length': '74', 'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36', 'Content-Type': 'application/json', 'Accept': 'application/json, text/javascript, */*; q=0.01', 'X-Requested-With': 'XMLHttpRequest', 'X-Xsrftoken': '2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029', 'Save-Data': 'on', 'Referer': 'https://strv.work/notebooks/deeping2.ipynb', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'username-strv-work-8888="2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75"; username-localhost-9999="2|1:0|10:1513840562|23:username-localhost-9999|44:ODRjNmJhNTA0OTg5NGU0Y2E1ZTg5ZDliZTYzNDI3YmQ=|2eb0a8454340a1a89d52ec906c5e8d2957e9c088eca18ef909f9fa6feb3baa38"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029'})
+    Traceback (most recent call last):
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/web.py", line 1511, in _execute
+        result = yield result
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/handlers.py", line 73, in post
+        type=mtype))
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 79, in create_session
+        kernel_id = yield self.start_kernel_for_session(session_id, path, name, type, kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 92, in start_kernel_for_session
+        self.kernel_manager.start_kernel(path=kernel_path, kernel_name=kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 307, in wrapper
+        yielded = next(result)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py", line 141, in start_kernel
+        super(MappingKernelManager, self).start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/multikernelmanager.py", line 110, in start_kernel
+        km.start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/manager.py", line 238, in start_kernel
+        self.write_connection_file()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 431, in write_connection_file
+        kernel_name=self.kernel_name
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 136, in write_connection_file
+        with open(fname, 'w') as f:
+    FileNotFoundError: [Errno 2] No such file or directory: '/run/user/1000/jupyter/kernel-4f7441d3-4f9f-454b-9b66-b93787ef92e6.json'
+[W 10:03:49.328 NotebookApp] Unhandled error
+[E 10:03:49.329 NotebookApp] {
+      "Connection": "upgrade",
+      "Host": "localhost:9999",
+      "Content-Length": "74",
+      "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029",
+      "Save-Data": "on",
+      "Referer": "https://strv.work/notebooks/deeping2.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7",
+      "Cookie": "username-strv-work-8888=\"2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75\"; username-localhost-9999=\"2|1:0|10:1513840562|23:username-localhost-9999|44:ODRjNmJhNTA0OTg5NGU0Y2E1ZTg5ZDliZTYzNDI3YmQ=|2eb0a8454340a1a89d52ec906c5e8d2957e9c088eca18ef909f9fa6feb3baa38\"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029"
+    }
+[E 10:03:49.329 NotebookApp] 500 POST /api/sessions (::1) 6.18ms referer=https://strv.work/notebooks/deeping2.ipynb
+[W 10:03:49.341 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.77ms referer=https://strv.work/notebooks/deeping2.ipynb
+[I 10:04:03.675 NotebookApp] New terminal with automatic name: 2
+[W 10:04:12.657 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 2.93ms referer=https://strv.work/tree
+[W 10:04:16.434 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 2.02ms referer=https://strv.work/notebooks/deeping2.ipynb
+[W 10:04:16.472 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 2.01ms referer=https://strv.work/notebooks/deeping2.ipynb
+[E 10:04:16.590 NotebookApp] Uncaught exception POST /api/sessions (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:9999', method='POST', uri='/api/sessions', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Connection': 'upgrade', 'Host': 'localhost:9999', 'Content-Length': '74', 'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36', 'Content-Type': 'application/json', 'Accept': 'application/json, text/javascript, */*; q=0.01', 'X-Requested-With': 'XMLHttpRequest', 'X-Xsrftoken': '2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029', 'Save-Data': 'on', 'Referer': 'https://strv.work/notebooks/deeping2.ipynb', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'username-strv-work-8888="2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75"; username-localhost-9999="2|1:0|10:1513840562|23:username-localhost-9999|44:ODRjNmJhNTA0OTg5NGU0Y2E1ZTg5ZDliZTYzNDI3YmQ=|2eb0a8454340a1a89d52ec906c5e8d2957e9c088eca18ef909f9fa6feb3baa38"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029'})
+    Traceback (most recent call last):
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/web.py", line 1511, in _execute
+        result = yield result
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/handlers.py", line 73, in post
+        type=mtype))
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 79, in create_session
+        kernel_id = yield self.start_kernel_for_session(session_id, path, name, type, kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 92, in start_kernel_for_session
+        self.kernel_manager.start_kernel(path=kernel_path, kernel_name=kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 307, in wrapper
+        yielded = next(result)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py", line 141, in start_kernel
+        super(MappingKernelManager, self).start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/multikernelmanager.py", line 110, in start_kernel
+        km.start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/manager.py", line 238, in start_kernel
+        self.write_connection_file()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 431, in write_connection_file
+        kernel_name=self.kernel_name
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 136, in write_connection_file
+        with open(fname, 'w') as f:
+    FileNotFoundError: [Errno 2] No such file or directory: '/run/user/1000/jupyter/kernel-047381de-8f82-48ab-9899-5724901bd02b.json'
+[W 10:04:16.591 NotebookApp] Unhandled error
+[E 10:04:16.591 NotebookApp] {
+      "Connection": "upgrade",
+      "Host": "localhost:9999",
+      "Content-Length": "74",
+      "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029",
+      "Save-Data": "on",
+      "Referer": "https://strv.work/notebooks/deeping2.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7",
+      "Cookie": "username-strv-work-8888=\"2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75\"; username-localhost-9999=\"2|1:0|10:1513840562|23:username-localhost-9999|44:ODRjNmJhNTA0OTg5NGU0Y2E1ZTg5ZDliZTYzNDI3YmQ=|2eb0a8454340a1a89d52ec906c5e8d2957e9c088eca18ef909f9fa6feb3baa38\"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029"
+    }
+[E 10:04:16.592 NotebookApp] 500 POST /api/sessions (127.0.0.1) 5.40ms referer=https://strv.work/notebooks/deeping2.ipynb
+[I 10:04:54.041 NotebookApp] 302 POST /login?next=%2F (127.0.0.1) 3.10ms
+[I 10:04:54.099 NotebookApp] 302 GET / (::1) 0.79ms
+[W 10:04:54.674 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 2.58ms referer=https://strv.work/tree?
+[W 10:04:57.062 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 1.90ms referer=https://strv.work/notebooks/deeping2.ipynb
+[W 10:04:57.110 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 2.91ms referer=https://strv.work/notebooks/deeping2.ipynb
+[E 10:04:57.217 NotebookApp] Uncaught exception POST /api/sessions (::1)
+    HTTPServerRequest(protocol='http', host='localhost:9999', method='POST', uri='/api/sessions', version='HTTP/1.1', remote_ip='::1', headers={'Connection': 'upgrade', 'Host': 'localhost:9999', 'Content-Length': '74', 'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36', 'Content-Type': 'application/json', 'Accept': 'application/json, text/javascript, */*; q=0.01', 'X-Requested-With': 'XMLHttpRequest', 'X-Xsrftoken': '2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029', 'Save-Data': 'on', 'Referer': 'https://strv.work/notebooks/deeping2.ipynb', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'username-strv-work-8888="2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029; username-localhost-9999="2|1:0|10:1513904694|23:username-localhost-9999|44:MTc2ZTY4OTIxOGY3NDFiZWFlNTY3ODBmMjgzMGI2MzE=|7a38eafd4c6e2317b431a4121d281b3a454c3900828b8574b46fde236b121018"'})
+    Traceback (most recent call last):
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/web.py", line 1511, in _execute
+        result = yield result
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/handlers.py", line 73, in post
+        type=mtype))
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 79, in create_session
+        kernel_id = yield self.start_kernel_for_session(session_id, path, name, type, kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 92, in start_kernel_for_session
+        self.kernel_manager.start_kernel(path=kernel_path, kernel_name=kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 307, in wrapper
+        yielded = next(result)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py", line 141, in start_kernel
+        super(MappingKernelManager, self).start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/multikernelmanager.py", line 110, in start_kernel
+        km.start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/manager.py", line 238, in start_kernel
+        self.write_connection_file()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 431, in write_connection_file
+        kernel_name=self.kernel_name
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 136, in write_connection_file
+        with open(fname, 'w') as f:
+    FileNotFoundError: [Errno 2] No such file or directory: '/run/user/1000/jupyter/kernel-cf5394f8-10fc-4752-878a-1a81138e70ff.json'
+[W 10:04:57.220 NotebookApp] Unhandled error
+[E 10:04:57.221 NotebookApp] {
+      "Connection": "upgrade",
+      "Host": "localhost:9999",
+      "Content-Length": "74",
+      "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029",
+      "Save-Data": "on",
+      "Referer": "https://strv.work/notebooks/deeping2.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7",
+      "Cookie": "username-strv-work-8888=\"2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75\"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029; username-localhost-9999=\"2|1:0|10:1513904694|23:username-localhost-9999|44:MTc2ZTY4OTIxOGY3NDFiZWFlNTY3ODBmMjgzMGI2MzE=|7a38eafd4c6e2317b431a4121d281b3a454c3900828b8574b46fde236b121018\""
+    }
+[E 10:04:57.221 NotebookApp] 500 POST /api/sessions (::1) 9.31ms referer=https://strv.work/notebooks/deeping2.ipynb
+[W 10:05:33.869 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.72ms referer=https://strv.work/notebooks/deeping2.ipynb
+[E 10:05:34.022 NotebookApp] Uncaught exception POST /api/sessions (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:9999', method='POST', uri='/api/sessions', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Connection': 'upgrade', 'Host': 'localhost:9999', 'Content-Length': '74', 'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36', 'Content-Type': 'application/json', 'Accept': 'application/json, text/javascript, */*; q=0.01', 'X-Requested-With': 'XMLHttpRequest', 'X-Xsrftoken': '2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029', 'Save-Data': 'on', 'Referer': 'https://strv.work/notebooks/deeping2.ipynb', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'username-strv-work-8888="2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029; username-localhost-9999="2|1:0|10:1513904694|23:username-localhost-9999|44:MTc2ZTY4OTIxOGY3NDFiZWFlNTY3ODBmMjgzMGI2MzE=|7a38eafd4c6e2317b431a4121d281b3a454c3900828b8574b46fde236b121018"'})
+    Traceback (most recent call last):
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/web.py", line 1511, in _execute
+        result = yield result
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/handlers.py", line 73, in post
+        type=mtype))
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 79, in create_session
+        kernel_id = yield self.start_kernel_for_session(session_id, path, name, type, kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 92, in start_kernel_for_session
+        self.kernel_manager.start_kernel(path=kernel_path, kernel_name=kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 307, in wrapper
+        yielded = next(result)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py", line 141, in start_kernel
+        super(MappingKernelManager, self).start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/multikernelmanager.py", line 110, in start_kernel
+        km.start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/manager.py", line 238, in start_kernel
+        self.write_connection_file()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 431, in write_connection_file
+        kernel_name=self.kernel_name
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 136, in write_connection_file
+        with open(fname, 'w') as f:
+    FileNotFoundError: [Errno 2] No such file or directory: '/run/user/1000/jupyter/kernel-f21912e3-a707-4eae-8072-cfa225e98425.json'
+[W 10:05:34.023 NotebookApp] Unhandled error
+[E 10:05:34.024 NotebookApp] {
+      "Connection": "upgrade",
+      "Host": "localhost:9999",
+      "Content-Length": "74",
+      "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029",
+      "Save-Data": "on",
+      "Referer": "https://strv.work/notebooks/deeping2.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7",
+      "Cookie": "username-strv-work-8888=\"2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75\"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029; username-localhost-9999=\"2|1:0|10:1513904694|23:username-localhost-9999|44:MTc2ZTY4OTIxOGY3NDFiZWFlNTY3ODBmMjgzMGI2MzE=|7a38eafd4c6e2317b431a4121d281b3a454c3900828b8574b46fde236b121018\""
+    }
+[E 10:05:34.024 NotebookApp] 500 POST /api/sessions (127.0.0.1) 6.95ms referer=https://strv.work/notebooks/deeping2.ipynb
+[W 10:05:34.045 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 1.63ms referer=https://strv.work/notebooks/deeping2.ipynb
+[W 10:06:31.247 NotebookApp] delete /deeping2.ipynb
+[I 10:06:33.344 NotebookApp] Creating new notebook in 
+[W 10:06:34.030 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.65ms referer=https://strv.work/notebooks/Untitled.ipynb?kernel_name=python3
+[W 10:06:34.043 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.66ms referer=https://strv.work/notebooks/Untitled.ipynb?kernel_name=python3
+[E 10:06:34.102 NotebookApp] Uncaught exception POST /api/sessions (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:9999', method='POST', uri='/api/sessions', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Connection': 'upgrade', 'Host': 'localhost:9999', 'Content-Length': '91', 'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36', 'Content-Type': 'application/json', 'Accept': 'application/json, text/javascript, */*; q=0.01', 'X-Requested-With': 'XMLHttpRequest', 'X-Xsrftoken': '2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029', 'Save-Data': 'on', 'Referer': 'https://strv.work/notebooks/Untitled.ipynb?kernel_name=python3', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'username-strv-work-8888="2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029; username-localhost-9999="2|1:0|10:1513904694|23:username-localhost-9999|44:MTc2ZTY4OTIxOGY3NDFiZWFlNTY3ODBmMjgzMGI2MzE=|7a38eafd4c6e2317b431a4121d281b3a454c3900828b8574b46fde236b121018"'})
+    Traceback (most recent call last):
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/web.py", line 1511, in _execute
+        result = yield result
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/handlers.py", line 73, in post
+        type=mtype))
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 79, in create_session
+        kernel_id = yield self.start_kernel_for_session(session_id, path, name, type, kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 92, in start_kernel_for_session
+        self.kernel_manager.start_kernel(path=kernel_path, kernel_name=kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 307, in wrapper
+        yielded = next(result)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py", line 141, in start_kernel
+        super(MappingKernelManager, self).start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/multikernelmanager.py", line 110, in start_kernel
+        km.start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/manager.py", line 238, in start_kernel
+        self.write_connection_file()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 431, in write_connection_file
+        kernel_name=self.kernel_name
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 136, in write_connection_file
+        with open(fname, 'w') as f:
+    FileNotFoundError: [Errno 2] No such file or directory: '/run/user/1000/jupyter/kernel-119b7a7b-aa31-4172-9e23-bd22c5e856ee.json'
+[W 10:06:34.104 NotebookApp] Unhandled error
+[E 10:06:34.105 NotebookApp] {
+      "Connection": "upgrade",
+      "Host": "localhost:9999",
+      "Content-Length": "91",
+      "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029",
+      "Save-Data": "on",
+      "Referer": "https://strv.work/notebooks/Untitled.ipynb?kernel_name=python3",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7",
+      "Cookie": "username-strv-work-8888=\"2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75\"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029; username-localhost-9999=\"2|1:0|10:1513904694|23:username-localhost-9999|44:MTc2ZTY4OTIxOGY3NDFiZWFlNTY3ODBmMjgzMGI2MzE=|7a38eafd4c6e2317b431a4121d281b3a454c3900828b8574b46fde236b121018\""
+    }
+[E 10:06:34.105 NotebookApp] 500 POST /api/sessions (127.0.0.1) 8.77ms referer=https://strv.work/notebooks/Untitled.ipynb?kernel_name=python3
+[W 10:06:37.014 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 1.33ms referer=https://strv.work/notebooks/deeping1.ipynb
+[W 10:06:37.061 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.80ms referer=https://strv.work/notebooks/deeping1.ipynb
+[I 10:06:37.572 NotebookApp] Adapting to protocol v5.1 for kernel 4f679347-cc89-4def-bc0f-6b3999cb8138
+[I 10:06:41.869 NotebookApp] Starting buffering for 4f679347-cc89-4def-bc0f-6b3999cb8138:CBB0ED2998FB45BB8D040999E9009B3F
+[I 10:06:48.193 NotebookApp] Kernel shutdown: 4f679347-cc89-4def-bc0f-6b3999cb8138
+[W 10:06:51.251 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 1.58ms referer=https://strv.work/notebooks/Untitled.ipynb
+[W 10:06:51.286 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 1.55ms referer=https://strv.work/notebooks/Untitled.ipynb
+[E 10:06:51.363 NotebookApp] Uncaught exception POST /api/sessions (::1)
+    HTTPServerRequest(protocol='http', host='localhost:9999', method='POST', uri='/api/sessions', version='HTTP/1.1', remote_ip='::1', headers={'Connection': 'upgrade', 'Host': 'localhost:9999', 'Content-Length': '74', 'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36', 'Content-Type': 'application/json', 'Accept': 'application/json, text/javascript, */*; q=0.01', 'X-Requested-With': 'XMLHttpRequest', 'X-Xsrftoken': '2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029', 'Save-Data': 'on', 'Referer': 'https://strv.work/notebooks/Untitled.ipynb', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'username-strv-work-8888="2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029; username-localhost-9999="2|1:0|10:1513904694|23:username-localhost-9999|44:MTc2ZTY4OTIxOGY3NDFiZWFlNTY3ODBmMjgzMGI2MzE=|7a38eafd4c6e2317b431a4121d281b3a454c3900828b8574b46fde236b121018"'})
+    Traceback (most recent call last):
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/web.py", line 1511, in _execute
+        result = yield result
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/handlers.py", line 73, in post
+        type=mtype))
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 79, in create_session
+        kernel_id = yield self.start_kernel_for_session(session_id, path, name, type, kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 92, in start_kernel_for_session
+        self.kernel_manager.start_kernel(path=kernel_path, kernel_name=kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 307, in wrapper
+        yielded = next(result)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py", line 141, in start_kernel
+        super(MappingKernelManager, self).start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/multikernelmanager.py", line 110, in start_kernel
+        km.start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/manager.py", line 238, in start_kernel
+        self.write_connection_file()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 431, in write_connection_file
+        kernel_name=self.kernel_name
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 136, in write_connection_file
+        with open(fname, 'w') as f:
+    FileNotFoundError: [Errno 2] No such file or directory: '/run/user/1000/jupyter/kernel-422b652e-31fb-483f-8684-253570552ccf.json'
+[W 10:06:51.364 NotebookApp] Unhandled error
+[E 10:06:51.365 NotebookApp] {
+      "Connection": "upgrade",
+      "Host": "localhost:9999",
+      "Content-Length": "74",
+      "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029",
+      "Save-Data": "on",
+      "Referer": "https://strv.work/notebooks/Untitled.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7",
+      "Cookie": "username-strv-work-8888=\"2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75\"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029; username-localhost-9999=\"2|1:0|10:1513904694|23:username-localhost-9999|44:MTc2ZTY4OTIxOGY3NDFiZWFlNTY3ODBmMjgzMGI2MzE=|7a38eafd4c6e2317b431a4121d281b3a454c3900828b8574b46fde236b121018\""
+    }
+[E 10:06:51.365 NotebookApp] 500 POST /api/sessions (::1) 6.49ms referer=https://strv.work/notebooks/Untitled.ipynb
+[W 10:06:58.587 NotebookApp] delete /Untitled.ipynb
+[W 10:07:05.381 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 2.01ms referer=https://strv.work/notebooks/deeping1.ipynb
+[W 10:07:05.405 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.95ms referer=https://strv.work/notebooks/deeping1.ipynb
+[E 10:07:05.841 NotebookApp] Uncaught exception POST /api/sessions (::1)
+    HTTPServerRequest(protocol='http', host='localhost:9999', method='POST', uri='/api/sessions', version='HTTP/1.1', remote_ip='::1', headers={'Connection': 'upgrade', 'Host': 'localhost:9999', 'Content-Length': '91', 'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36', 'Content-Type': 'application/json', 'Accept': 'application/json, text/javascript, */*; q=0.01', 'X-Requested-With': 'XMLHttpRequest', 'X-Xsrftoken': '2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029', 'Save-Data': 'on', 'Referer': 'https://strv.work/notebooks/deeping1.ipynb', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'username-strv-work-8888="2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029; username-localhost-9999="2|1:0|10:1513904694|23:username-localhost-9999|44:MTc2ZTY4OTIxOGY3NDFiZWFlNTY3ODBmMjgzMGI2MzE=|7a38eafd4c6e2317b431a4121d281b3a454c3900828b8574b46fde236b121018"'})
+    Traceback (most recent call last):
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/web.py", line 1511, in _execute
+        result = yield result
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/handlers.py", line 73, in post
+        type=mtype))
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 79, in create_session
+        kernel_id = yield self.start_kernel_for_session(session_id, path, name, type, kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 92, in start_kernel_for_session
+        self.kernel_manager.start_kernel(path=kernel_path, kernel_name=kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 307, in wrapper
+        yielded = next(result)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py", line 141, in start_kernel
+        super(MappingKernelManager, self).start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/multikernelmanager.py", line 110, in start_kernel
+        km.start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/manager.py", line 238, in start_kernel
+        self.write_connection_file()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 431, in write_connection_file
+        kernel_name=self.kernel_name
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 136, in write_connection_file
+        with open(fname, 'w') as f:
+    FileNotFoundError: [Errno 2] No such file or directory: '/run/user/1000/jupyter/kernel-35a4a24e-9079-4acd-9582-d9e2f3645f99.json'
+[W 10:07:05.842 NotebookApp] Unhandled error
+[E 10:07:05.843 NotebookApp] {
+      "Connection": "upgrade",
+      "Host": "localhost:9999",
+      "Content-Length": "91",
+      "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029",
+      "Save-Data": "on",
+      "Referer": "https://strv.work/notebooks/deeping1.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7",
+      "Cookie": "username-strv-work-8888=\"2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75\"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029; username-localhost-9999=\"2|1:0|10:1513904694|23:username-localhost-9999|44:MTc2ZTY4OTIxOGY3NDFiZWFlNTY3ODBmMjgzMGI2MzE=|7a38eafd4c6e2317b431a4121d281b3a454c3900828b8574b46fde236b121018\""
+    }
+[E 10:07:05.843 NotebookApp] 500 POST /api/sessions (::1) 5.62ms referer=https://strv.work/notebooks/deeping1.ipynb
+[W 10:07:26.586 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 2.02ms referer=https://strv.work/tree
+[I 10:07:34.244 NotebookApp] EOF on FD 21; stopping reading
+[I 10:07:34.344 NotebookApp] Terminal 1 closed
+[I 10:07:34.932 NotebookApp] EOF on FD 22; stopping reading
+[I 10:07:35.032 NotebookApp] Terminal 2 closed
+[W 10:07:38.681 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 1.87ms referer=https://strv.work/notebooks/deeping1.ipynb
+[W 10:07:38.730 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 2.11ms referer=https://strv.work/notebooks/deeping1.ipynb
+[E 10:07:39.185 NotebookApp] Uncaught exception POST /api/sessions (::1)
+    HTTPServerRequest(protocol='http', host='localhost:9999', method='POST', uri='/api/sessions', version='HTTP/1.1', remote_ip='::1', headers={'Connection': 'upgrade', 'Host': 'localhost:9999', 'Content-Length': '91', 'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36', 'Content-Type': 'application/json', 'Accept': 'application/json, text/javascript, */*; q=0.01', 'X-Requested-With': 'XMLHttpRequest', 'X-Xsrftoken': '2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029', 'Save-Data': 'on', 'Referer': 'https://strv.work/notebooks/deeping1.ipynb', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'username-strv-work-8888="2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029; username-localhost-9999="2|1:0|10:1513904694|23:username-localhost-9999|44:MTc2ZTY4OTIxOGY3NDFiZWFlNTY3ODBmMjgzMGI2MzE=|7a38eafd4c6e2317b431a4121d281b3a454c3900828b8574b46fde236b121018"'})
+    Traceback (most recent call last):
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/web.py", line 1511, in _execute
+        result = yield result
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/handlers.py", line 73, in post
+        type=mtype))
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 79, in create_session
+        kernel_id = yield self.start_kernel_for_session(session_id, path, name, type, kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 92, in start_kernel_for_session
+        self.kernel_manager.start_kernel(path=kernel_path, kernel_name=kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 307, in wrapper
+        yielded = next(result)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py", line 141, in start_kernel
+        super(MappingKernelManager, self).start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/multikernelmanager.py", line 110, in start_kernel
+        km.start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/manager.py", line 238, in start_kernel
+        self.write_connection_file()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 431, in write_connection_file
+        kernel_name=self.kernel_name
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 136, in write_connection_file
+        with open(fname, 'w') as f:
+    FileNotFoundError: [Errno 2] No such file or directory: '/run/user/1000/jupyter/kernel-a37862df-91e0-46bc-81ef-120e76c3e8f0.json'
+[W 10:07:39.186 NotebookApp] Unhandled error
+[E 10:07:39.187 NotebookApp] {
+      "Connection": "upgrade",
+      "Host": "localhost:9999",
+      "Content-Length": "91",
+      "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029",
+      "Save-Data": "on",
+      "Referer": "https://strv.work/notebooks/deeping1.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7",
+      "Cookie": "username-strv-work-8888=\"2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75\"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029; username-localhost-9999=\"2|1:0|10:1513904694|23:username-localhost-9999|44:MTc2ZTY4OTIxOGY3NDFiZWFlNTY3ODBmMjgzMGI2MzE=|7a38eafd4c6e2317b431a4121d281b3a454c3900828b8574b46fde236b121018\""
+    }
+[E 10:07:39.187 NotebookApp] 500 POST /api/sessions (::1) 6.20ms referer=https://strv.work/notebooks/deeping1.ipynb
+[W 10:07:50.246 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 2.17ms referer=https://strv.work/notebooks/deeping1.ipynb
+[W 10:07:50.278 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.07ms referer=https://strv.work/notebooks/deeping1.ipynb
+[E 10:07:50.702 NotebookApp] Uncaught exception POST /api/sessions (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:9999', method='POST', uri='/api/sessions', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Connection': 'upgrade', 'Host': 'localhost:9999', 'Content-Length': '91', 'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36', 'Content-Type': 'application/json', 'Accept': 'application/json, text/javascript, */*; q=0.01', 'X-Requested-With': 'XMLHttpRequest', 'X-Xsrftoken': '2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029', 'Save-Data': 'on', 'Referer': 'https://strv.work/notebooks/deeping1.ipynb', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'username-strv-work-8888="2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029; username-localhost-9999="2|1:0|10:1513904694|23:username-localhost-9999|44:MTc2ZTY4OTIxOGY3NDFiZWFlNTY3ODBmMjgzMGI2MzE=|7a38eafd4c6e2317b431a4121d281b3a454c3900828b8574b46fde236b121018"'})
+    Traceback (most recent call last):
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/web.py", line 1511, in _execute
+        result = yield result
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/handlers.py", line 73, in post
+        type=mtype))
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 79, in create_session
+        kernel_id = yield self.start_kernel_for_session(session_id, path, name, type, kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 92, in start_kernel_for_session
+        self.kernel_manager.start_kernel(path=kernel_path, kernel_name=kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 307, in wrapper
+        yielded = next(result)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py", line 141, in start_kernel
+        super(MappingKernelManager, self).start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/multikernelmanager.py", line 110, in start_kernel
+        km.start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/manager.py", line 238, in start_kernel
+        self.write_connection_file()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 431, in write_connection_file
+        kernel_name=self.kernel_name
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 136, in write_connection_file
+        with open(fname, 'w') as f:
+    FileNotFoundError: [Errno 2] No such file or directory: '/run/user/1000/jupyter/kernel-fc30b906-0796-41d8-a5e7-a33a12aa0428.json'
+[W 10:07:50.704 NotebookApp] Unhandled error
+[E 10:07:50.705 NotebookApp] {
+      "Connection": "upgrade",
+      "Host": "localhost:9999",
+      "Content-Length": "91",
+      "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029",
+      "Save-Data": "on",
+      "Referer": "https://strv.work/notebooks/deeping1.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7",
+      "Cookie": "username-strv-work-8888=\"2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75\"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029; username-localhost-9999=\"2|1:0|10:1513904694|23:username-localhost-9999|44:MTc2ZTY4OTIxOGY3NDFiZWFlNTY3ODBmMjgzMGI2MzE=|7a38eafd4c6e2317b431a4121d281b3a454c3900828b8574b46fde236b121018\""
+    }
+[E 10:07:50.705 NotebookApp] 500 POST /api/sessions (127.0.0.1) 7.26ms referer=https://strv.work/notebooks/deeping1.ipynb
+[W 10:09:00.226 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.59ms referer=https://strv.work/notebooks/deeping1.ipynb
+[W 10:09:00.350 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.02ms referer=https://strv.work/notebooks/deeping1.ipynb
+[E 10:09:00.819 NotebookApp] Uncaught exception POST /api/sessions (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:9999', method='POST', uri='/api/sessions', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Connection': 'upgrade', 'Host': 'localhost:9999', 'Content-Length': '91', 'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36', 'Content-Type': 'application/json', 'Accept': 'application/json, text/javascript, */*; q=0.01', 'X-Requested-With': 'XMLHttpRequest', 'X-Xsrftoken': '2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029', 'Save-Data': 'on', 'Referer': 'https://strv.work/notebooks/deeping1.ipynb', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'username-strv-work-8888="2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029; username-localhost-9999="2|1:0|10:1513904694|23:username-localhost-9999|44:MTc2ZTY4OTIxOGY3NDFiZWFlNTY3ODBmMjgzMGI2MzE=|7a38eafd4c6e2317b431a4121d281b3a454c3900828b8574b46fde236b121018"'})
+    Traceback (most recent call last):
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/web.py", line 1511, in _execute
+        result = yield result
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/handlers.py", line 73, in post
+        type=mtype))
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 79, in create_session
+        kernel_id = yield self.start_kernel_for_session(session_id, path, name, type, kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 92, in start_kernel_for_session
+        self.kernel_manager.start_kernel(path=kernel_path, kernel_name=kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 307, in wrapper
+        yielded = next(result)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py", line 141, in start_kernel
+        super(MappingKernelManager, self).start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/multikernelmanager.py", line 110, in start_kernel
+        km.start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/manager.py", line 238, in start_kernel
+        self.write_connection_file()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 431, in write_connection_file
+        kernel_name=self.kernel_name
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 136, in write_connection_file
+        with open(fname, 'w') as f:
+    FileNotFoundError: [Errno 2] No such file or directory: '/run/user/1000/jupyter/kernel-5d617120-a961-4c26-be50-ce1aa88f8b12.json'
+[W 10:09:00.820 NotebookApp] Unhandled error
+[E 10:09:00.821 NotebookApp] {
+      "Connection": "upgrade",
+      "Host": "localhost:9999",
+      "Content-Length": "91",
+      "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029",
+      "Save-Data": "on",
+      "Referer": "https://strv.work/notebooks/deeping1.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7",
+      "Cookie": "username-strv-work-8888=\"2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75\"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029; username-localhost-9999=\"2|1:0|10:1513904694|23:username-localhost-9999|44:MTc2ZTY4OTIxOGY3NDFiZWFlNTY3ODBmMjgzMGI2MzE=|7a38eafd4c6e2317b431a4121d281b3a454c3900828b8574b46fde236b121018\""
+    }
+[E 10:09:00.821 NotebookApp] 500 POST /api/sessions (127.0.0.1) 6.33ms referer=https://strv.work/notebooks/deeping1.ipynb
+[W 10:09:02.746 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.60ms referer=https://strv.work/tree
+[I 10:09:05.054 NotebookApp] New terminal with automatic name: 1
+[I 10:09:42.702 NotebookApp] EOF on FD 21; stopping reading
+[I 10:09:42.803 NotebookApp] Terminal 1 closed
+[W 10:09:45.505 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.76ms referer=https://strv.work/notebooks/deeping1.ipynb
+[W 10:09:45.527 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 2.20ms referer=https://strv.work/notebooks/deeping1.ipynb
+[E 10:09:46.033 NotebookApp] Uncaught exception POST /api/sessions (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:9999', method='POST', uri='/api/sessions', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Connection': 'upgrade', 'Host': 'localhost:9999', 'Content-Length': '91', 'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36', 'Content-Type': 'application/json', 'Accept': 'application/json, text/javascript, */*; q=0.01', 'X-Requested-With': 'XMLHttpRequest', 'X-Xsrftoken': '2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029', 'Save-Data': 'on', 'Referer': 'https://strv.work/notebooks/deeping1.ipynb', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7', 'Cookie': 'username-strv-work-8888="2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029; username-localhost-9999="2|1:0|10:1513904694|23:username-localhost-9999|44:MTc2ZTY4OTIxOGY3NDFiZWFlNTY3ODBmMjgzMGI2MzE=|7a38eafd4c6e2317b431a4121d281b3a454c3900828b8574b46fde236b121018"'})
+    Traceback (most recent call last):
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/web.py", line 1511, in _execute
+        result = yield result
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/handlers.py", line 73, in post
+        type=mtype))
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 79, in create_session
+        kernel_id = yield self.start_kernel_for_session(session_id, path, name, type, kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1063, in run
+        yielded = self.gen.throw(*exc_info)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/sessions/sessionmanager.py", line 92, in start_kernel_for_session
+        self.kernel_manager.start_kernel(path=kernel_path, kernel_name=kernel_name)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 1055, in run
+        value = future.result()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/tornado/gen.py", line 307, in wrapper
+        yielded = next(result)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py", line 141, in start_kernel
+        super(MappingKernelManager, self).start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/multikernelmanager.py", line 110, in start_kernel
+        km.start_kernel(**kwargs)
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/manager.py", line 238, in start_kernel
+        self.write_connection_file()
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 431, in write_connection_file
+        kernel_name=self.kernel_name
+      File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_client/connect.py", line 136, in write_connection_file
+        with open(fname, 'w') as f:
+    FileNotFoundError: [Errno 2] No such file or directory: '/run/user/1000/jupyter/kernel-7537c57f-fad0-4850-8af7-1a1b6432edde.json'
+[W 10:09:46.034 NotebookApp] Unhandled error
+[E 10:09:46.035 NotebookApp] {
+      "Connection": "upgrade",
+      "Host": "localhost:9999",
+      "Content-Length": "91",
+      "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; 501SO Build/32.1.D.0.430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029",
+      "Save-Data": "on",
+      "Referer": "https://strv.work/notebooks/deeping1.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7",
+      "Cookie": "username-strv-work-8888=\"2|1:0|10:1513836863|23:username-strv-work-8888|44:MzVhNDViZDVhZTM3NDZiOTgwNzdkMzFiZGFmNGU1ZjA=|c72814a68e7264784401ad9b76d2b59b989b9a6de6cccfa9ca9ff0c114196f75\"; _xsrf=2|3af9acf7|e5fb321b877a3e283ea9858dee179a8f|1513850029; username-localhost-9999=\"2|1:0|10:1513904694|23:username-localhost-9999|44:MTc2ZTY4OTIxOGY3NDFiZWFlNTY3ODBmMjgzMGI2MzE=|7a38eafd4c6e2317b431a4121d281b3a454c3900828b8574b46fde236b121018\""
+    }
+[E 10:09:46.035 NotebookApp] 500 POST /api/sessions (127.0.0.1) 6.71ms referer=https://strv.work/notebooks/deeping1.ipynb
+[C 10:12:07.191 NotebookApp] received signal 15, stopping
+Traceback (most recent call last):
+  File "/home/strv/.pyenv/versions/deep/bin/jupyter-notebook", line 11, in <module>
+    sys.exit(main())
+  File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/jupyter_core/application.py", line 266, in launch_instance
+    return super(JupyterApp, cls).launch_instance(argv=argv, **kwargs)
+  File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/traitlets/config/application.py", line 658, in launch_instance
+    app.start()
+  File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/notebookapp.py", line 1500, in start
+    self.remove_server_info_file()
+  File "/home/strv/.pyenv/versions/anaconda3-4.3.1/envs/deep/lib/python3.6/site-packages/notebook/notebookapp.py", line 1420, in remove_server_info_file
+    os.unlink(self.info_file)
+PermissionError: [Errno 13] Permission denied: '/run/user/1000/jupyter/nbserver-695.json'
+[I 10:13:18.443 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[W 10:13:19.011 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 10:13:19.025 NotebookApp] Serving notebooks from local directory: /home/strv/prog/deep
+[I 10:13:19.025 NotebookApp] 0 active kernels
+[I 10:13:19.025 NotebookApp] The Jupyter Notebook is running at:
+[I 10:13:19.025 NotebookApp] http://[all ip addresses on your system]:9999/
+[I 10:13:19.025 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 10:14:19.941 NotebookApp] 302 GET /notebooks/deeping1.ipynb (::1) 1.24ms
+[W 10:14:27.317 NotebookApp] 401 POST /login?next=%2Fnotebooks%2Fdeeping1.ipynb (127.0.0.1) 1.66ms referer=https://strv.work/login?next=%2Fnotebooks%2Fdeeping1.ipynb
+[I 10:14:34.464 NotebookApp] 302 POST /login?next=%2Fnotebooks%2Fdeeping1.ipynb (::1) 1.24ms
+[W 10:14:35.570 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 10.66ms referer=https://strv.work/notebooks/deeping1.ipynb
+[W 10:14:35.610 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 2.14ms referer=https://strv.work/notebooks/deeping1.ipynb
+[I 10:14:36.090 NotebookApp] Kernel started: 21e5557f-2328-4c02-891f-0b3124b5cb0b
+[I 10:14:36.773 NotebookApp] Adapting to protocol v5.1 for kernel 21e5557f-2328-4c02-891f-0b3124b5cb0b
+[I 10:14:40.776 NotebookApp] Starting buffering for 21e5557f-2328-4c02-891f-0b3124b5cb0b:10F670C6FA39494FAF56EFB502FDF8B9
+[W 10:14:41.147 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.62ms referer=https://strv.work/tree
+[I 10:14:48.795 NotebookApp] Creating new notebook in 
+[W 10:14:49.615 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.71ms referer=https://strv.work/notebooks/Untitled.ipynb?kernel_name=python3
+[W 10:14:49.617 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 1.36ms referer=https://strv.work/notebooks/Untitled.ipynb?kernel_name=python3
+[I 10:14:49.738 NotebookApp] Kernel started: e5b3540f-45e6-4529-a437-5ada7c16b0c5
+[I 10:14:50.440 NotebookApp] Adapting to protocol v5.1 for kernel e5b3540f-45e6-4529-a437-5ada7c16b0c5
+[I 10:15:02.771 NotebookApp] Saving file at /deeping2.ipynb
+[I 10:20:51.387 NotebookApp] Saving file at /deeping2.ipynb
+[I 10:22:51.363 NotebookApp] Saving file at /deeping2.ipynb
+[I 10:24:51.372 NotebookApp] Saving file at /deeping2.ipynb
+[I 10:26:52.288 NotebookApp] Saving file at /deeping2.ipynb
+[I 10:28:52.258 NotebookApp] Saving file at /deeping2.ipynb
+[I 10:30:52.270 NotebookApp] Saving file at /deeping2.ipynb
+[I 10:32:51.376 NotebookApp] Saving file at /deeping2.ipynb
+[I 10:34:51.382 NotebookApp] Saving file at /deeping2.ipynb
+[I 10:36:52.250 NotebookApp] Saving file at /deeping2.ipynb
+[I 10:44:21.323 NotebookApp] Saving file at /deeping2.ipynb
+[I 10:44:53.168 NotebookApp] Saving file at /deeping2.ipynb
+[I 10:46:54.243 NotebookApp] Saving file at /deeping2.ipynb
+[I 10:48:54.231 NotebookApp] Saving file at /deeping2.ipynb
+[I 10:52:54.224 NotebookApp] Saving file at /deeping2.ipynb
+[I 10:58:54.679 NotebookApp] Saving file at /deeping2.ipynb
+[I 11:00:53.256 NotebookApp] Saving file at /deeping2.ipynb
+[I 11:02:53.272 NotebookApp] Saving file at /deeping2.ipynb
+[I 11:04:53.278 NotebookApp] Saving file at /deeping2.ipynb
+[I 11:10:53.238 NotebookApp] Saving file at /deeping2.ipynb
+[I 11:12:53.232 NotebookApp] Saving file at /deeping2.ipynb
+[I 11:14:54.233 NotebookApp] Saving file at /deeping2.ipynb
+[I 11:16:54.240 NotebookApp] Saving file at /deeping2.ipynb
+[I 11:32:58.512 NotebookApp] Starting buffering for e5b3540f-45e6-4529-a437-5ada7c16b0c5:67B3515A50B44249A2D8F6C9A9254851
+[W 11:33:21.993 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 2.19ms referer=https://strv.work/notebooks/deeping2.ipynb
+[W 11:33:21.996 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 1.61ms referer=https://strv.work/notebooks/deeping2.ipynb
+[I 11:33:22.660 NotebookApp] Adapting to protocol v5.1 for kernel e5b3540f-45e6-4529-a437-5ada7c16b0c5
+[I 11:53:23.295 NotebookApp] Saving file at /deeping2.ipynb
+[W 12:05:57.680 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 2.23ms referer=https://strv.work/tree
+[I 12:09:29.402 NotebookApp] Saving file at /deeping2.ipynb
+[I 12:11:29.777 NotebookApp] Saving file at /deeping2.ipynb
+[I 12:13:29.355 NotebookApp] Saving file at /deeping2.ipynb
+[I 12:15:29.838 NotebookApp] Saving file at /deeping2.ipynb
+[W 12:26:22.664 NotebookApp] WebSocket ping timeout after 119976 ms.
+[I 12:26:27.669 NotebookApp] Starting buffering for e5b3540f-45e6-4529-a437-5ada7c16b0c5:0E001C11203F43EE8F6FABA0540BC9D5
+[W 12:34:42.869 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.65ms referer=https://strv.work/tree
+[I 12:34:45.475 NotebookApp] Adapting to protocol v5.1 for kernel e5b3540f-45e6-4529-a437-5ada7c16b0c5
+[I 12:34:45.475 NotebookApp] Restoring connection for e5b3540f-45e6-4529-a437-5ada7c16b0c5:0E001C11203F43EE8F6FABA0540BC9D5
+[I 12:35:49.130 NotebookApp] Starting buffering for e5b3540f-45e6-4529-a437-5ada7c16b0c5:0E001C11203F43EE8F6FABA0540BC9D5
+[W 12:35:49.915 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 2.20ms referer=https://strv.work/tree
+[W 12:35:56.717 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 1.54ms referer=https://strv.work/notebooks/deeping1.ipynb
+[W 12:35:56.779 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.35ms referer=https://strv.work/notebooks/deeping1.ipynb
+[I 12:35:57.453 NotebookApp] Adapting to protocol v5.1 for kernel 21e5557f-2328-4c02-891f-0b3124b5cb0b
+[I 12:37:57.842 NotebookApp] Saving file at /deeping1.ipynb
+[W 12:43:17.786 NotebookApp] Replacing stale connection: 21e5557f-2328-4c02-891f-0b3124b5cb0b:C5B4247AAF88478AA56FBC1F994F292C
+[I 12:43:22.789 NotebookApp] Starting buffering for 21e5557f-2328-4c02-891f-0b3124b5cb0b:C5B4247AAF88478AA56FBC1F994F292C
+[I 12:43:22.790 NotebookApp] Adapting to protocol v5.1 for kernel 21e5557f-2328-4c02-891f-0b3124b5cb0b
+[I 12:43:22.792 NotebookApp] Restoring connection for 21e5557f-2328-4c02-891f-0b3124b5cb0b:C5B4247AAF88478AA56FBC1F994F292C
+[W 12:46:52.792 NotebookApp] WebSocket ping timeout after 119882 ms.
+[I 12:46:57.796 NotebookApp] Starting buffering for 21e5557f-2328-4c02-891f-0b3124b5cb0b:C5B4247AAF88478AA56FBC1F994F292C
+[W 13:53:31.023 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.80ms referer=https://strv.work/notebooks/deeping1.ipynb
+[W 13:53:31.060 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.91ms referer=https://strv.work/notebooks/deeping1.ipynb
+[I 13:53:31.863 NotebookApp] Adapting to protocol v5.1 for kernel 21e5557f-2328-4c02-891f-0b3124b5cb0b
+[W 13:53:36.770 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.47ms referer=https://strv.work/tree
+[W 13:53:39.663 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.47ms referer=https://strv.work/notebooks/deeping2.ipynb
+[W 13:53:39.690 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 2.00ms referer=https://strv.work/notebooks/deeping2.ipynb
+[I 13:53:40.302 NotebookApp] Adapting to protocol v5.1 for kernel e5b3540f-45e6-4529-a437-5ada7c16b0c5
+[I 13:53:42.786 NotebookApp] Starting buffering for e5b3540f-45e6-4529-a437-5ada7c16b0c5:31EEAFA8073D47E282328AB0AC852480
+[I 13:53:47.774 NotebookApp] Starting buffering for 21e5557f-2328-4c02-891f-0b3124b5cb0b:E24158BFA0AB4808965EE52F9BCB357E
+[W 13:53:48.234 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 1.45ms referer=https://strv.work/tree
+[W 13:53:50.274 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 2.09ms referer=https://strv.work/notebooks/deeping2.ipynb
+[W 13:53:50.279 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.64ms referer=https://strv.work/notebooks/deeping2.ipynb
+[I 13:53:50.690 NotebookApp] Adapting to protocol v5.1 for kernel e5b3540f-45e6-4529-a437-5ada7c16b0c5
+[I 13:55:51.259 NotebookApp] Saving file at /deeping2.ipynb
+[I 13:57:51.199 NotebookApp] Saving file at /deeping2.ipynb
+[I 13:59:51.357 NotebookApp] Saving file at /deeping2.ipynb
+[I 14:09:08.162 NotebookApp] Starting buffering for e5b3540f-45e6-4529-a437-5ada7c16b0c5:03B35353F45244FA963FC374B9188206
+[W 14:09:08.605 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.73ms referer=https://strv.work/tree
+[I 14:09:34.181 NotebookApp] Kernel shutdown: 21e5557f-2328-4c02-891f-0b3124b5cb0b
+[I 14:09:35.421 NotebookApp] Kernel shutdown: e5b3540f-45e6-4529-a437-5ada7c16b0c5
+[I 14:10:10.193 NotebookApp] Copying deeping2.ipynb to 
+[W 14:11:05.148 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 1.82ms referer=https://strv.work/notebooks/deeping3.ipynb
+[W 14:11:05.176 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 1.75ms referer=https://strv.work/notebooks/deeping3.ipynb
+[I 14:11:05.543 NotebookApp] Kernel started: 5a0d0b47-d6bb-4529-b74b-3eecea8d7943
+[I 14:11:06.248 NotebookApp] Adapting to protocol v5.1 for kernel 5a0d0b47-d6bb-4529-b74b-3eecea8d7943
+[I 15:24:28.370 NotebookApp] Starting buffering for 5a0d0b47-d6bb-4529-b74b-3eecea8d7943:CB46D6D55F504359907A5DF5DBB4E25B
+[W 16:51:43.766 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 2.53ms referer=https://strv.work/notebooks/deeping3.ipynb
+[W 16:51:44.660 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 2.98ms referer=https://strv.work/notebooks/deeping3.ipynb
+[I 16:51:44.886 NotebookApp] Adapting to protocol v5.1 for kernel 5a0d0b47-d6bb-4529-b74b-3eecea8d7943
+[I 17:59:01.308 NotebookApp] Starting buffering for 5a0d0b47-d6bb-4529-b74b-3eecea8d7943:A44D6CA929E44DCE9754E1351AF433F9
+[W 17:59:02.145 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.67ms referer=https://strv.work/tree
+[I 17:59:17.077 NotebookApp] 302 GET /tree (127.0.0.1) 1.81ms
+[I 17:59:24.692 NotebookApp] 302 POST /login?next=%2Ftree (127.0.0.1) 2.59ms
+[W 17:59:25.480 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 1.56ms referer=https://strv.work/tree
+[W 17:59:32.340 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 2.06ms referer=https://strv.work/notebooks/deeping3.ipynb
+[W 17:59:32.353 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 1.92ms referer=https://strv.work/notebooks/deeping3.ipynb
+[I 17:59:33.104 NotebookApp] Adapting to protocol v5.1 for kernel 5a0d0b47-d6bb-4529-b74b-3eecea8d7943
+[I 18:01:12.008 NotebookApp] Starting buffering for 5a0d0b47-d6bb-4529-b74b-3eecea8d7943:B623EFBB6BB145FE93856B5D62913F8C
+[W 18:01:13.199 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.75ms referer=https://strv.work/notebooks/deeping3.ipynb
+[W 18:01:13.205 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.49ms referer=https://strv.work/notebooks/deeping3.ipynb
+[I 18:01:13.882 NotebookApp] Adapting to protocol v5.1 for kernel 5a0d0b47-d6bb-4529-b74b-3eecea8d7943
+[I 20:49:46.815 NotebookApp] 302 GET /notebooks/Untitled1.ipynb (::1) 1.81ms
+[W 20:49:52.492 NotebookApp] Forbidden
+[W 20:49:52.493 NotebookApp] 403 GET /api/sessions?_=1513846582230 (::1) 1.57ms referer=https://strv.work/tree?
+[W 20:49:52.496 NotebookApp] Forbidden
+[W 20:49:52.496 NotebookApp] 403 GET /api/terminals?_=1513846582231 (127.0.0.1) 1.27ms referer=https://strv.work/tree?
+[W 20:50:35.729 NotebookApp] Forbidden
+[W 20:50:35.731 NotebookApp] 403 GET /api/sessions?_=1513846582232 (::1) 2.89ms referer=https://strv.work/tree?
+[W 20:50:35.732 NotebookApp] Forbidden
+[W 20:50:35.732 NotebookApp] 403 GET /api/terminals?_=1513846582233 (127.0.0.1) 0.83ms referer=https://strv.work/tree?
+[I 20:59:30.975 NotebookApp] 302 GET / (::1) 1.21ms
+[W 21:03:18.461 NotebookApp] Forbidden
+[W 21:03:18.462 NotebookApp] 403 GET /api/sessions?_=1513846582234 (127.0.0.1) 2.59ms referer=https://strv.work/tree?
+[W 21:03:18.464 NotebookApp] Forbidden
+[W 21:03:18.464 NotebookApp] 403 GET /api/terminals?_=1513846582235 (::1) 0.70ms referer=https://strv.work/tree?
+[I 21:09:02.816 NotebookApp] 302 GET / (127.0.0.1) 1.12ms
+[I 23:04:54.153 NotebookApp] 302 GET / (::1) 1.25ms
+[W 01:45:13.885 NotebookApp] WebSocket ping timeout after 119925 ms.
+[I 01:45:18.889 NotebookApp] Starting buffering for 5a0d0b47-d6bb-4529-b74b-3eecea8d7943:0F7C3D7CC459473CB215B22BC5A9B06D
+[W 02:16:39.599 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 2.28ms referer=https://strv.work/notebooks/deeping3.ipynb
+[W 02:16:41.038 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.57ms referer=https://strv.work/notebooks/deeping3.ipynb
+[I 02:16:41.450 NotebookApp] Adapting to protocol v5.1 for kernel 5a0d0b47-d6bb-4529-b74b-3eecea8d7943
+[I 02:16:46.943 NotebookApp] Starting buffering for 5a0d0b47-d6bb-4529-b74b-3eecea8d7943:4D3F3A2DF18B497DA69DF538C52FDF80
+[W 10:52:11.672 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 2.30ms referer=https://strv.work/tree
+[I 10:52:14.475 NotebookApp] 302 GET /tree (::1) 1.08ms
+[I 10:52:30.155 NotebookApp] 302 POST /login?next=%2Ftree (::1) 1.71ms
+[W 10:52:31.061 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.99ms referer=https://strv.work/tree
+[I 10:52:41.813 NotebookApp] New terminal with automatic name: 1
+[W 10:52:52.531 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.97ms referer=https://strv.work/tree
+[I 10:52:55.236 NotebookApp] Kernel shutdown: 5a0d0b47-d6bb-4529-b74b-3eecea8d7943
+[I 10:52:56.308 NotebookApp] EOF on FD 36; stopping reading
+[I 10:52:56.409 NotebookApp] Terminal 1 closed
+[W 10:52:59.543 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 2.36ms referer=https://strv.work/notebooks/deeping3.ipynb
+[W 10:52:59.593 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 2.65ms referer=https://strv.work/notebooks/deeping3.ipynb
+[I 10:52:59.992 NotebookApp] Kernel started: bd99a947-ac9d-4103-bfc9-486591e0a756
+[I 10:53:00.641 NotebookApp] Adapting to protocol v5.1 for kernel bd99a947-ac9d-4103-bfc9-486591e0a756
+[I 10:53:47.672 NotebookApp] Saving file at /deeping3.ipynb
+[I 11:11:00.619 NotebookApp] Starting buffering for bd99a947-ac9d-4103-bfc9-486591e0a756:30E6AA3C73E14B0F89D4033362251E1C
+[I 11:25:50.464 NotebookApp] 302 GET / (::1) 1.35ms
+[W 11:25:51.358 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.63ms referer=https://strv.work/tree?
+[I 18:46:25.461 NotebookApp] 302 GET / (127.0.0.1) 1.71ms
+[I 21:10:03.927 NotebookApp] 302 GET / (::1) 1.37ms
+[I 00:05:03.272 NotebookApp] 302 GET / (127.0.0.1) 1.19ms
+[I 00:15:37.258 NotebookApp] 302 GET / (::1) 1.59ms
+[I 00:15:37.271 NotebookApp] 302 GET /tree? (127.0.0.1) 1.31ms
+[I 01:07:07.899 NotebookApp] 302 GET / (127.0.0.1) 1.72ms
+[I 01:07:07.928 NotebookApp] 302 GET /tree? (::1) 1.45ms
+[I 01:07:10.988 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 1.71ms
+[W 01:07:11.577 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 2.39ms referer=https://strv.work/tree?
+[I 01:07:18.271 NotebookApp] New terminal with automatic name: 1
+[W 01:31:25.735 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.50ms referer=https://strv.work/tree
+[I 01:31:29.996 NotebookApp] Kernel shutdown: bd99a947-ac9d-4103-bfc9-486591e0a756
+[I 01:31:31.470 NotebookApp] EOF on FD 36; stopping reading
+[I 01:31:31.570 NotebookApp] Terminal 1 closed
+[W 05:25:01.027 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 2.24ms referer=https://strv.work/tree
+[W 05:25:01.089 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.46ms referer=https://strv.work/tree
+[W 05:25:01.194 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 1.98ms referer=https://strv.work/tree
+[I 08:19:01.890 NotebookApp] 302 GET / (127.0.0.1) 1.37ms
+[I 15:10:08.005 NotebookApp] 302 GET / (::1) 1.15ms
+[I 15:10:08.034 NotebookApp] 302 GET /tree? (127.0.0.1) 1.20ms
+[W 15:10:10.954 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 2.04ms referer=https://strv.work/login?next=%2Ftree%3F
+[I 15:10:13.421 NotebookApp] 302 POST /login?next=%2Ftree%3F (::1) 2.44ms
+[W 15:10:13.930 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.83ms referer=https://strv.work/tree?
+[W 15:10:20.187 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.44ms referer=https://strv.work/notebooks/deeping3.ipynb
+[W 15:10:20.206 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.89ms referer=https://strv.work/notebooks/deeping3.ipynb
+[I 15:10:20.409 NotebookApp] Kernel started: 58fbe46e-ff6b-4099-9c8c-251de6fc22f2
+[I 15:10:21.127 NotebookApp] Adapting to protocol v5.1 for kernel 58fbe46e-ff6b-4099-9c8c-251de6fc22f2
+[I 15:12:02.572 NotebookApp] Starting buffering for 58fbe46e-ff6b-4099-9c8c-251de6fc22f2:EB2AC852FBD04B798D80CC980876D5D7
+[W 15:12:08.505 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 2.72ms referer=https://strv.work/notebooks/deeping1.ipynb
+[W 15:12:08.511 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 2.16ms referer=https://strv.work/notebooks/deeping1.ipynb
+[I 15:12:08.739 NotebookApp] Kernel started: 6eadc065-8d46-49f2-97cf-dc1b73ca18dd
+[I 15:12:09.455 NotebookApp] Adapting to protocol v5.1 for kernel 6eadc065-8d46-49f2-97cf-dc1b73ca18dd
+[I 15:13:07.721 NotebookApp] Starting buffering for 6eadc065-8d46-49f2-97cf-dc1b73ca18dd:346D839DFCAF4199AED8C25B3163452B
+[W 15:13:10.205 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 1.84ms referer=https://strv.work/notebooks/deeping2.ipynb
+[W 15:13:10.209 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 1.31ms referer=https://strv.work/notebooks/deeping2.ipynb
+[I 15:13:10.414 NotebookApp] Kernel started: fc3a0c53-18ac-427e-9f72-4282d60dd662
+[I 15:13:11.132 NotebookApp] Adapting to protocol v5.1 for kernel fc3a0c53-18ac-427e-9f72-4282d60dd662
+[W 15:16:11.135 NotebookApp] WebSocket ping timeout after 119975 ms.
+[I 15:16:16.139 NotebookApp] Starting buffering for fc3a0c53-18ac-427e-9f72-4282d60dd662:6D2CAB55AE5B42D283BF385DBEF9FF54
+[I 16:49:55.782 NotebookApp] 302 GET / (127.0.0.1) 2.03ms
+[I 16:49:56.194 NotebookApp] 302 GET / (::1) 0.64ms
+[I 16:49:56.292 NotebookApp] 302 GET /tree? (127.0.0.1) 1.28ms
+[I 16:49:56.895 NotebookApp] 302 GET /tree? (127.0.0.1) 0.91ms
+[I 21:35:58.240 NotebookApp] 302 GET / (::1) 1.57ms
+[I 21:35:58.250 NotebookApp] 302 GET /tree? (127.0.0.1) 1.26ms
+[I 22:11:28.186 NotebookApp] 302 GET / (127.0.0.1) 1.58ms
+[I 23:55:45.308 NotebookApp] 302 GET / (::1) 1.78ms
+[I 00:33:21.111 NotebookApp] 302 GET / (127.0.0.1) 1.53ms
+[W 02:05:58.377 NotebookApp] 404 GET /manager/html (139.159.234.34) 3.85ms referer=None
+[I 18:34:36.458 NotebookApp] 302 GET / (::1) 1.58ms
+[I 18:34:36.587 NotebookApp] 302 GET /tree? (127.0.0.1) 1.18ms
+[W 19:09:51.366 NotebookApp] 404 GET /xxbb (::1) 3.90ms referer=None
+[I 21:58:30.992 NotebookApp] 302 GET / (127.0.0.1) 1.77ms
+[I 02:59:21.332 NotebookApp] 302 GET / (::1) 2.01ms
+[I 02:59:28.625 NotebookApp] 302 GET /tree (127.0.0.1) 1.61ms
+[I 05:27:09.497 NotebookApp] 302 GET / (127.0.0.1) 1.90ms
+[I 12:34:35.358 NotebookApp] 302 GET / (::1) 1.80ms
+[I 13:26:10.306 NotebookApp] 302 GET / (127.0.0.1) 1.43ms
+[I 13:26:11.468 NotebookApp] 302 GET /tree? (::1) 1.42ms
+[I 15:50:15.329 NotebookApp] 302 GET / (::1) 1.60ms
+[I 17:31:29.142 NotebookApp] 302 GET / (127.0.0.1) 1.94ms
+[I 17:31:29.653 NotebookApp] 302 GET /tree? (::1) 1.32ms
+[I 20:26:16.036 NotebookApp] 302 GET / (127.0.0.1) 1.72ms
+[I 22:24:54.542 NotebookApp] 302 GET / (::1) 1.58ms
+[I 00:14:23.316 NotebookApp] 302 GET / (127.0.0.1) 1.62ms
+[I 00:14:24.343 NotebookApp] 302 GET /tree? (::1) 1.20ms
+[I 00:14:30.949 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 2.27ms
+[W 00:14:34.705 NotebookApp] 404 GET /static/components/moment/locale/ja.js (::1) 2.19ms referer=https://strv.work/tree?
+[W 00:14:43.353 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.68ms referer=https://strv.work/edit/jupyter.log
+[I 02:01:25.071 NotebookApp] 302 GET / (::1) 1.55ms
+[I 02:01:25.082 NotebookApp] 302 GET /tree? (127.0.0.1) 1.18ms
+[I 12:42:09.287 NotebookApp] 302 GET / (127.0.0.1) 1.80ms
+[I 15:35:27.229 NotebookApp] 302 GET / (::1) 1.47ms
+[W 16:49:00.605 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.67ms referer=https://strv.work/notebooks/deeping3.ipynb
+[W 16:49:00.622 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.89ms referer=https://strv.work/notebooks/deeping3.ipynb
+[I 16:49:00.852 NotebookApp] Adapting to protocol v5.1 for kernel 58fbe46e-ff6b-4099-9c8c-251de6fc22f2
+[I 16:51:02.356 NotebookApp] Saving file at /deeping3.ipynb
+[I 19:24:01.162 NotebookApp] 302 GET / (::1) 1.83ms
+[I 20:54:15.406 NotebookApp] Starting buffering for 58fbe46e-ff6b-4099-9c8c-251de6fc22f2:1349C03AAD4943B4AE19378C0EB9E47F
+[I 20:57:14.586 NotebookApp] 302 GET / (::1) 1.62ms
+[I 20:57:15.112 NotebookApp] 302 GET /tree? (127.0.0.1) 1.42ms
+[I 23:15:53.004 NotebookApp] 302 GET / (127.0.0.1) 1.64ms
+[I 12:15:08.936 NotebookApp] 302 GET / (::1) 1.63ms
+[I 12:15:08.948 NotebookApp] 302 GET /tree? (127.0.0.1) 1.28ms
+[I 12:34:09.529 NotebookApp] 302 GET / (127.0.0.1) 1.81ms
+[I 14:23:47.906 NotebookApp] 302 GET / (::1) 1.50ms
+[I 16:55:46.675 NotebookApp] 302 GET / (127.0.0.1) 1.48ms
+[I 16:55:46.961 NotebookApp] 302 GET /tree? (::1) 1.20ms
+[W 19:19:13.088 NotebookApp] 405 HEAD / (::1) 1.88ms referer=None
+[I 21:29:05.152 NotebookApp] 302 GET / (127.0.0.1) 1.61ms
+[I 21:32:57.893 NotebookApp] 302 GET / (::1) 1.21ms
+[W 21:32:58.831 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 2.15ms referer=https://strv.work/tree?
+[W 21:33:23.258 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 1.84ms referer=https://strv.work/notebooks/deeping3.ipynb
+[W 21:33:23.260 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 1.62ms referer=https://strv.work/notebooks/deeping3.ipynb
+[I 21:33:23.516 NotebookApp] Adapting to protocol v5.1 for kernel 58fbe46e-ff6b-4099-9c8c-251de6fc22f2
+[I 21:35:23.885 NotebookApp] Saving file at /deeping3.ipynb
+[I 21:47:08.938 NotebookApp] Kernel shutdown: 58fbe46e-ff6b-4099-9c8c-251de6fc22f2
+[W 21:47:08.942 NotebookApp] 404 DELETE /api/sessions/75ba84df-17df-4172-aeb0-c4816f934f94 (::1): Session not found: session_id='75ba84df-17df-4172-aeb0-c4816f934f94'
+[W 21:47:08.943 NotebookApp] Session not found: session_id='75ba84df-17df-4172-aeb0-c4816f934f94'
+[W 21:47:08.943 NotebookApp] 404 DELETE /api/sessions/75ba84df-17df-4172-aeb0-c4816f934f94 (::1) 1.41ms referer=https://strv.work/tree?
+[I 21:47:09.730 NotebookApp] Kernel shutdown: 6eadc065-8d46-49f2-97cf-dc1b73ca18dd
+[I 21:47:10.474 NotebookApp] Kernel shutdown: fc3a0c53-18ac-427e-9f72-4282d60dd662
+[I 21:47:17.580 NotebookApp] Creating new notebook in 
+[W 21:47:18.153 NotebookApp] 404 GET /static/components/moment/locale/ja.js (127.0.0.1) 2.05ms referer=https://strv.work/notebooks/Untitled.ipynb?kernel_name=python3
+[W 21:47:18.162 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (::1) 1.81ms referer=https://strv.work/notebooks/Untitled.ipynb?kernel_name=python3
+[I 21:47:18.215 NotebookApp] Kernel started: 9d2234ef-1442-43d6-abad-ad15a50839e9
+[I 21:47:18.853 NotebookApp] Adapting to protocol v5.1 for kernel 9d2234ef-1442-43d6-abad-ad15a50839e9
+[I 21:49:18.874 NotebookApp] Saving file at /deeping4.ipynb
+[I 21:51:18.292 NotebookApp] Saving file at /deeping4.ipynb
+[I 21:53:18.243 NotebookApp] Saving file at /deeping4.ipynb
+[I 22:35:18.322 NotebookApp] Saving file at /deeping4.ipynb
+[I 22:37:18.326 NotebookApp] Saving file at /deeping4.ipynb
+[I 22:39:18.330 NotebookApp] Saving file at /deeping4.ipynb
+[I 22:41:18.324 NotebookApp] Saving file at /deeping4.ipynb
+[I 22:43:18.925 NotebookApp] Saving file at /deeping4.ipynb
+[I 22:45:18.872 NotebookApp] Saving file at /deeping4.ipynb
+[I 22:47:18.917 NotebookApp] Saving file at /deeping4.ipynb
+[I 22:49:18.919 NotebookApp] Saving file at /deeping4.ipynb
+[I 22:51:18.345 NotebookApp] Saving file at /deeping4.ipynb
+[I 22:53:18.932 NotebookApp] Saving file at /deeping4.ipynb
+[I 22:59:18.881 NotebookApp] Saving file at /deeping4.ipynb
